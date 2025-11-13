@@ -1,0 +1,4336 @@
+customer_id,recency_status,monetary_status,frequency_status
+12346,Churned,High Value,One-Time
+12347,Recent,Average Value,Frequent
+12348,Needs Attention,Average Value,Occasional
+12349,Recent,Average Value,One-Time
+12350,Churned,Very Low Value,One-Time
+12352,Needs Attention,Average Value,Frequent
+12353,Churned,Very Low Value,One-Time
+12354,Churned,Average Value,One-Time
+12355,Churned,Low Value,One-Time
+12356,Recent,Average Value,Few
+12357,Needs Attention,High Value,One-Time
+12358,Recent,Low Value,Few
+12359,Needs Attention,High Value,Occasional
+12360,Needs Attention,Average Value,Few
+12361,Churned,Very Low Value,One-Time
+12362,Recent,Average Value,Frequent
+12363,At Risk,Low Value,Few
+12364,Recent,Average Value,Occasional
+12365,Churned,Low Value,One-Time
+12367,Recent,Very Low Value,One-Time
+12370,Needs Attention,Average Value,Occasional
+12371,Needs Attention,Average Value,One-Time
+12372,Needs Attention,Average Value,Few
+12373,Churned,Low Value,One-Time
+12374,Recent,Low Value,One-Time
+12375,Recent,Low Value,Few
+12377,Churned,Average Value,Few
+12378,At Risk,Average Value,One-Time
+12379,Needs Attention,Low Value,Few
+12380,Recent,Average Value,Occasional
+12381,Recent,Average Value,Few
+12383,Churned,Average Value,Occasional
+12384,Recent,Low Value,Few
+12386,Churned,Low Value,Few
+12388,Recent,Average Value,Frequent
+12390,Needs Attention,Low Value,One-Time
+12391,Recent,Low Value,One-Time
+12393,Needs Attention,Average Value,Occasional
+12394,Needs Attention,Average Value,Few
+12395,Recent,Average Value,Frequent
+12397,Needs Attention,Average Value,Few
+12398,Needs Attention,Average Value,One-Time
+12399,At Risk,Average Value,Occasional
+12401,Churned,Very Low Value,One-Time
+12402,Churned,Very Low Value,One-Time
+12403,Needs Attention,Low Value,One-Time
+12405,At Risk,Average Value,One-Time
+12406,Recent,Average Value,Few
+12407,Needs Attention,Average Value,Occasional
+12408,Needs Attention,Average Value,Occasional
+12409,Needs Attention,High Value,Few
+12410,Churned,Low Value,Few
+12412,Needs Attention,Average Value,Few
+12413,Needs Attention,Low Value,Few
+12414,Churned,Low Value,Few
+12415,Recent,High Value,Frequent
+12417,Recent,Average Value,Frequent
+12418,At Risk,Low Value,One-Time
+12420,Needs Attention,Low Value,One-Time
+12421,Recent,Low Value,Occasional
+12422,At Risk,Low Value,Few
+12423,Recent,Average Value,Frequent
+12424,At Risk,Average Value,Few
+12425,Needs Attention,Low Value,One-Time
+12426,Churned,Low Value,One-Time
+12427,Recent,Low Value,Few
+12428,Recent,High Value,Frequent
+12429,Recent,Average Value,Occasional
+12430,Needs Attention,Very Low Value,One-Time
+12431,Needs Attention,High Value,Frequent
+12432,Needs Attention,Average Value,Occasional
+12433,Recent,High Value,Frequent
+12434,Needs Attention,Low Value,Few
+12435,Needs Attention,High Value,Few
+12436,At Risk,Low Value,One-Time
+12437,Recent,Average Value,Frequent
+12438,Recent,Average Value,Few
+12441,Churned,Very Low Value,One-Time
+12442,Recent,Very Low Value,One-Time
+12444,Recent,Average Value,Occasional
+12445,Recent,Very Low Value,One-Time
+12446,Needs Attention,Average Value,One-Time
+12447,Churned,Low Value,One-Time
+12448,Needs Attention,Low Value,One-Time
+12449,Recent,Average Value,Occasional
+12450,At Risk,Very Low Value,Few
+12451,Recent,High Value,Occasional
+12452,Recent,Low Value,One-Time
+12453,At Risk,Low Value,One-Time
+12454,Needs Attention,Average Value,One-Time
+12455,Needs Attention,Average Value,Occasional
+12456,Needs Attention,Average Value,Few
+12457,Needs Attention,Average Value,Frequent
+12458,Needs Attention,Low Value,Few
+12461,At Risk,Low Value,One-Time
+12462,Recent,Low Value,Few
+12463,Needs Attention,Average Value,Occasional
+12464,Recent,Low Value,Frequent
+12465,Recent,Low Value,Few
+12468,Churned,Low Value,Few
+12471,Recent,High Value,Frequent
+12472,Needs Attention,High Value,Frequent
+12473,Needs Attention,Average Value,Few
+12474,Recent,High Value,Frequent
+12475,Needs Attention,Low Value,One-Time
+12476,Recent,High Value,Frequent
+12477,Recent,High Value,Frequent
+12478,Recent,Low Value,One-Time
+12479,Recent,Low Value,One-Time
+12480,Recent,Average Value,Occasional
+12481,Recent,High Value,Frequent
+12483,Recent,Average Value,Frequent
+12484,Needs Attention,Average Value,Occasional
+12488,Recent,Average Value,Few
+12489,Churned,Very Low Value,One-Time
+12490,Recent,Average Value,Frequent
+12491,Needs Attention,Low Value,One-Time
+12492,Needs Attention,Very Low Value,Few
+12493,At Risk,Low Value,Few
+12494,Recent,Average Value,Frequent
+12497,Needs Attention,Low Value,One-Time
+12498,Recent,Low Value,Few
+12500,Recent,Average Value,Frequent
+12501,Churned,Average Value,One-Time
+12502,At Risk,Average Value,Occasional
+12504,Recent,Low Value,Few
+12506,Churned,Very Low Value,One-Time
+12507,At Risk,Average Value,Few
+12508,Recent,Low Value,Few
+12509,Churned,Very Low Value,One-Time
+12510,At Risk,Low Value,Few
+12512,Needs Attention,Very Low Value,Few
+12513,At Risk,Low Value,One-Time
+12514,Churned,Average Value,One-Time
+12515,Churned,Very Low Value,One-Time
+12516,Needs Attention,Average Value,Few
+12517,Recent,Average Value,Occasional
+12518,Recent,Average Value,Occasional
+12519,Needs Attention,Very Low Value,One-Time
+12520,Needs Attention,Average Value,Occasional
+12521,At Risk,Low Value,One-Time
+12522,Needs Attention,Very Low Value,Few
+12523,Recent,Average Value,Frequent
+12524,Recent,Average Value,Frequent
+12526,Recent,Average Value,Few
+12527,Needs Attention,Low Value,Few
+12528,Recent,Average Value,Frequent
+12530,Needs Attention,Average Value,Occasional
+12531,Recent,Very Low Value,One-Time
+12532,Recent,Low Value,One-Time
+12534,At Risk,Low Value,One-Time
+12535,At Risk,Low Value,Few
+12536,Needs Attention,Average Value,One-Time
+12538,Recent,Low Value,One-Time
+12539,Recent,High Value,Occasional
+12540,Recent,High Value,Frequent
+12541,Recent,Low Value,Few
+12544,Needs Attention,Low Value,One-Time
+12545,Needs Attention,Low Value,Few
+12546,Needs Attention,Average Value,Few
+12547,Churned,Very Low Value,Few
+12548,At Risk,Very Low Value,One-Time
+12550,Needs Attention,Low Value,One-Time
+12551,Churned,Very Low Value,One-Time
+12552,Needs Attention,Low Value,One-Time
+12553,Recent,Average Value,Frequent
+12556,Needs Attention,Low Value,Few
+12557,Recent,High Value,Occasional
+12558,Recent,Very Low Value,One-Time
+12559,Churned,Low Value,Few
+12560,Recent,Average Value,Few
+12561,Churned,Very Low Value,One-Time
+12562,Recent,Average Value,Frequent
+12564,Churned,Low Value,One-Time
+12565,Churned,Very Low Value,One-Time
+12566,Needs Attention,Very Low Value,One-Time
+12567,Recent,High Value,Frequent
+12569,Recent,Average Value,Frequent
+12571,Needs Attention,Low Value,Few
+12572,Recent,Low Value,Few
+12573,Churned,Very Low Value,One-Time
+12574,Churned,Very Low Value,One-Time
+12576,Needs Attention,Average Value,Occasional
+12577,Needs Attention,Low Value,Few
+12578,Recent,Average Value,Few
+12579,Needs Attention,Low Value,One-Time
+12580,Churned,Low Value,One-Time
+12581,Needs Attention,Very Low Value,One-Time
+12582,Churned,Low Value,Few
+12583,Recent,High Value,Frequent
+12584,Recent,Average Value,Frequent
+12585,Churned,Average Value,Few
+12586,Recent,Very Low Value,One-Time
+12587,Recent,Very Low Value,One-Time
+12588,Needs Attention,Very Low Value,One-Time
+12589,Recent,Low Value,Few
+12590,Churned,High Value,One-Time
+12591,Churned,Low Value,One-Time
+12592,At Risk,Low Value,Few
+12593,At Risk,Low Value,Few
+12594,Needs Attention,Average Value,Frequent
+12596,Needs Attention,Low Value,Few
+12597,Recent,Average Value,Occasional
+12598,Recent,Average Value,Frequent
+12599,Recent,Low Value,Frequent
+12600,Recent,Average Value,Frequent
+12601,Churned,Low Value,Occasional
+12602,Needs Attention,Very Low Value,One-Time
+12603,Recent,Low Value,One-Time
+12604,Needs Attention,Very Low Value,Few
+12607,Needs Attention,Average Value,One-Time
+12609,Needs Attention,Low Value,Few
+12610,Recent,Average Value,Occasional
+12611,Needs Attention,Average Value,One-Time
+12612,Needs Attention,Low Value,One-Time
+12613,Needs Attention,Average Value,Occasional
+12614,Churned,Low Value,One-Time
+12615,Recent,Average Value,Occasional
+12616,At Risk,Low Value,Few
+12617,Recent,Low Value,One-Time
+12618,Recent,Very Low Value,One-Time
+12619,Recent,Average Value,Frequent
+12620,Recent,Average Value,Few
+12621,Recent,High Value,Frequent
+12622,Churned,Very Low Value,One-Time
+12623,Churned,Very Low Value,One-Time
+12624,At Risk,Low Value,Few
+12625,Churned,Average Value,Few
+12626,Recent,High Value,Frequent
+12627,Recent,Average Value,Frequent
+12628,Recent,Low Value,Few
+12630,Recent,Average Value,Few
+12631,Needs Attention,Low Value,One-Time
+12633,Needs Attention,Average Value,Occasional
+12635,Needs Attention,Average Value,Few
+12637,Needs Attention,High Value,Frequent
+12638,Needs Attention,Low Value,One-Time
+12639,Churned,Low Value,One-Time
+12640,Recent,Low Value,Few
+12641,At Risk,Very Low Value,One-Time
+12642,Recent,Low Value,Few
+12643,At Risk,Average Value,Frequent
+12644,At Risk,Low Value,One-Time
+12645,Needs Attention,Average Value,Occasional
+12646,Recent,Average Value,Few
+12647,Recent,Average Value,Frequent
+12648,At Risk,Low Value,One-Time
+12649,At Risk,Low Value,Few
+12650,Recent,Very Low Value,One-Time
+12651,Churned,Very Low Value,One-Time
+12652,Churned,Low Value,One-Time
+12653,At Risk,Average Value,Few
+12654,Recent,Low Value,Occasional
+12656,Recent,Average Value,Occasional
+12657,Recent,Average Value,Occasional
+12658,Recent,Low Value,One-Time
+12659,Recent,Very Low Value,One-Time
+12660,Recent,Very Low Value,One-Time
+12662,Recent,Average Value,Frequent
+12664,Recent,Average Value,Frequent
+12665,Churned,Very Low Value,One-Time
+12667,Needs Attention,Low Value,One-Time
+12668,Recent,Average Value,Occasional
+12669,At Risk,Average Value,Few
+12670,Recent,Average Value,Occasional
+12672,Churned,Very Low Value,One-Time
+12673,Recent,Low Value,Few
+12674,Needs Attention,Average Value,Occasional
+12676,Recent,Average Value,Frequent
+12678,Needs Attention,High Value,Frequent
+12679,Needs Attention,Low Value,Occasional
+12680,Recent,Low Value,Occasional
+12681,Recent,High Value,Frequent
+12682,Recent,High Value,Frequent
+12683,Recent,High Value,Frequent
+12684,Recent,Average Value,Frequent
+12685,Recent,Average Value,Frequent
+12686,Churned,Very Low Value,One-Time
+12688,At Risk,Average Value,One-Time
+12689,Recent,Average Value,Few
+12690,Churned,Low Value,One-Time
+12691,Recent,Low Value,Occasional
+12693,At Risk,Low Value,Occasional
+12694,Needs Attention,Low Value,Few
+12695,Recent,Low Value,Occasional
+12697,Recent,Low Value,Few
+12700,Recent,Average Value,Occasional
+12701,Needs Attention,Low Value,Few
+12702,Recent,Very Low Value,One-Time
+12703,Needs Attention,Very Low Value,One-Time
+12704,Recent,Average Value,Frequent
+12705,Recent,High Value,Frequent
+12707,Churned,Low Value,One-Time
+12708,Recent,Average Value,Frequent
+12709,Recent,High Value,Frequent
+12710,At Risk,Average Value,Few
+12712,Recent,Average Value,Frequent
+12713,Recent,Low Value,One-Time
+12714,Recent,Average Value,Occasional
+12715,At Risk,Very Low Value,One-Time
+12716,Recent,Low Value,Few
+12717,At Risk,Low Value,Few
+12718,Needs Attention,Very Low Value,One-Time
+12719,Recent,Low Value,Few
+12720,Recent,High Value,Frequent
+12721,Needs Attention,Average Value,Frequent
+12722,Needs Attention,Low Value,Occasional
+12723,Recent,Low Value,Occasional
+12724,Recent,Low Value,Occasional
+12725,Churned,Low Value,One-Time
+12726,Recent,Average Value,Frequent
+12727,Recent,Average Value,Frequent
+12728,Needs Attention,Low Value,Occasional
+12729,At Risk,Low Value,One-Time
+12731,Recent,High Value,Frequent
+12732,At Risk,Very Low Value,One-Time
+12733,Churned,Low Value,One-Time
+12734,Churned,Very Low Value,One-Time
+12735,Churned,Low Value,Few
+12736,Churned,Very Low Value,One-Time
+12738,Churned,Very Low Value,One-Time
+12739,At Risk,Low Value,One-Time
+12740,Needs Attention,Low Value,One-Time
+12743,At Risk,Low Value,Few
+12744,Needs Attention,High Value,Occasional
+12747,Recent,Average Value,Frequent
+12748,Recent,High Value,Frequent
+12749,Recent,Average Value,Occasional
+12750,At Risk,Very Low Value,One-Time
+12752,Needs Attention,Average Value,One-Time
+12753,Recent,High Value,Frequent
+12754,Churned,Average Value,Few
+12755,Churned,Average Value,Few
+12756,Needs Attention,Very Low Value,One-Time
+12757,Recent,Average Value,Frequent
+12758,At Risk,Average Value,Few
+12759,Needs Attention,Average Value,Few
+12762,Recent,Average Value,Few
+12763,At Risk,Low Value,Few
+12764,Churned,Average Value,One-Time
+12766,Recent,High Value,Frequent
+12769,Churned,Average Value,One-Time
+12770,Churned,Average Value,One-Time
+12772,Needs Attention,Low Value,One-Time
+12775,Recent,Average Value,Occasional
+12778,Recent,Low Value,Frequent
+12779,Needs Attention,Average Value,Frequent
+12781,Needs Attention,Low Value,Few
+12782,Recent,Average Value,Occasional
+12783,Recent,Average Value,Occasional
+12784,Recent,Low Value,One-Time
+12785,Churned,Very Low Value,One-Time
+12787,Recent,Low Value,Few
+12789,Needs Attention,Very Low Value,One-Time
+12790,Churned,Very Low Value,One-Time
+12791,Churned,Very Low Value,One-Time
+12792,Churned,Low Value,One-Time
+12793,Churned,Low Value,Few
+12794,Needs Attention,Low Value,Few
+12795,Recent,Low Value,One-Time
+12797,Churned,Very Low Value,One-Time
+12798,Recent,High Value,Few
+12802,Churned,Low Value,One-Time
+12808,Needs Attention,Low Value,Few
+12809,At Risk,Low Value,One-Time
+12811,Churned,Low Value,Few
+12812,Needs Attention,Very Low Value,One-Time
+12814,At Risk,Very Low Value,One-Time
+12815,At Risk,Low Value,Few
+12816,At Risk,Low Value,Few
+12817,Churned,Very Low Value,One-Time
+12818,Churned,Average Value,One-Time
+12820,Recent,Low Value,Occasional
+12821,Churned,Very Low Value,One-Time
+12822,Needs Attention,Low Value,Few
+12823,Needs Attention,Average Value,Occasional
+12824,Needs Attention,Low Value,One-Time
+12826,Recent,Average Value,Frequent
+12827,Recent,Low Value,Few
+12828,Recent,Average Value,Frequent
+12829,Churned,Very Low Value,Few
+12830,Needs Attention,High Value,Frequent
+12831,Churned,Very Low Value,One-Time
+12832,Needs Attention,Low Value,Few
+12833,At Risk,Low Value,One-Time
+12834,Churned,Low Value,One-Time
+12836,Needs Attention,Average Value,Occasional
+12837,At Risk,Very Low Value,One-Time
+12838,Needs Attention,Low Value,Few
+12839,Recent,High Value,Frequent
+12840,At Risk,Average Value,Occasional
+12841,Recent,Average Value,Frequent
+12842,Needs Attention,Average Value,Few
+12843,Needs Attention,Average Value,Frequent
+12844,Recent,Low Value,Few
+12845,Churned,Low Value,Occasional
+12847,Recent,Low Value,One-Time
+12849,Recent,Average Value,Few
+12851,At Risk,Very Low Value,One-Time
+12852,Churned,Low Value,One-Time
+12853,At Risk,Average Value,Frequent
+12854,Needs Attention,Average Value,Few
+12855,Churned,Very Low Value,One-Time
+12856,Recent,Average Value,Frequent
+12857,Churned,Average Value,Few
+12863,Needs Attention,Low Value,One-Time
+12864,At Risk,Very Low Value,One-Time
+12865,Recent,Average Value,Few
+12866,Churned,Low Value,One-Time
+12867,Recent,Average Value,Frequent
+12868,Churned,Average Value,Frequent
+12871,Needs Attention,Low Value,Few
+12872,Churned,Low Value,Few
+12873,Churned,Low Value,One-Time
+12875,At Risk,Low Value,Few
+12876,Needs Attention,Average Value,Few
+12877,Recent,Average Value,Frequent
+12878,Churned,Low Value,Few
+12879,Needs Attention,Low Value,Few
+12881,Churned,Very Low Value,One-Time
+12882,Recent,Average Value,Few
+12883,Recent,Low Value,Occasional
+12884,Needs Attention,Low Value,One-Time
+12885,Needs Attention,Average Value,Few
+12886,Needs Attention,Average Value,Few
+12888,Churned,Low Value,Few
+12890,Recent,Low Value,One-Time
+12891,Churned,Low Value,Few
+12893,Recent,Very Low Value,One-Time
+12895,Needs Attention,Low Value,Few
+12897,Churned,Very Low Value,Few
+12901,Recent,High Value,Frequent
+12902,Churned,Very Low Value,One-Time
+12904,Recent,Low Value,Few
+12906,Recent,Average Value,Occasional
+12908,At Risk,Low Value,Few
+12909,Needs Attention,Average Value,Occasional
+12910,Recent,Average Value,Frequent
+12912,Recent,Average Value,Occasional
+12913,Recent,Average Value,Occasional
+12915,At Risk,Low Value,Few
+12916,At Risk,Average Value,Occasional
+12917,At Risk,Low Value,One-Time
+12919,Recent,Average Value,Frequent
+12920,Recent,Very Low Value,One-Time
+12921,Recent,High Value,Frequent
+12922,At Risk,Low Value,One-Time
+12923,Needs Attention,Very Low Value,One-Time
+12924,Needs Attention,Low Value,Occasional
+12925,Recent,Low Value,Few
+12928,Needs Attention,Average Value,Occasional
+12929,Churned,Very Low Value,One-Time
+12930,Needs Attention,Low Value,Few
+12931,Recent,High Value,Frequent
+12933,Recent,Low Value,Few
+12935,Recent,Average Value,Frequent
+12936,Recent,Average Value,Occasional
+12937,Recent,Average Value,Occasional
+12938,Recent,Very Low Value,One-Time
+12939,Needs Attention,High Value,Frequent
+12940,Needs Attention,Low Value,Few
+12942,At Risk,Low Value,Few
+12944,Needs Attention,Low Value,Few
+12945,Churned,Low Value,One-Time
+12947,At Risk,Average Value,Frequent
+12948,Recent,Average Value,Frequent
+12949,Recent,Average Value,Frequent
+12950,Recent,Average Value,Few
+12951,Recent,Average Value,Frequent
+12952,Recent,Average Value,Occasional
+12953,Recent,Low Value,One-Time
+12955,Recent,Average Value,Frequent
+12956,Churned,Very Low Value,One-Time
+12957,Recent,Average Value,Frequent
+12962,Recent,Very Low Value,Few
+12963,Recent,Average Value,Frequent
+12965,Needs Attention,Low Value,One-Time
+12966,Recent,Very Low Value,One-Time
+12967,Churned,Average Value,Few
+12968,At Risk,Very Low Value,One-Time
+12970,Recent,Low Value,Occasional
+12971,Recent,High Value,Frequent
+12974,Churned,Very Low Value,One-Time
+12976,Churned,Low Value,One-Time
+12977,At Risk,Very Low Value,One-Time
+12980,At Risk,High Value,Frequent
+12981,Recent,Low Value,Few
+12982,Churned,Low Value,One-Time
+12984,Recent,Very Low Value,One-Time
+12985,Recent,Average Value,Few
+12987,Needs Attention,Low Value,Few
+12988,Churned,Low Value,One-Time
+12989,Recent,High Value,Frequent
+12990,Recent,Low Value,Few
+12991,Recent,Low Value,Few
+12993,Recent,Low Value,Occasional
+12994,Recent,Low Value,Few
+12995,Needs Attention,Very Low Value,One-Time
+12997,Recent,Average Value,Occasional
+12999,Churned,Low Value,Few
+13000,At Risk,Low Value,Few
+13001,Recent,High Value,Frequent
+13002,Churned,Very Low Value,One-Time
+13003,At Risk,Very Low Value,Few
+13004,Recent,High Value,Frequent
+13005,At Risk,Low Value,Few
+13006,Needs Attention,Very Low Value,One-Time
+13008,Churned,Very Low Value,One-Time
+13011,Churned,Very Low Value,One-Time
+13012,Recent,Average Value,Frequent
+13013,Recent,Average Value,Frequent
+13014,Recent,Average Value,Frequent
+13015,Needs Attention,Average Value,Occasional
+13016,Needs Attention,Low Value,Few
+13017,Recent,Very Low Value,One-Time
+13018,Recent,High Value,Frequent
+13021,Recent,Average Value,Frequent
+13023,Needs Attention,Low Value,Few
+13026,Recent,Low Value,Occasional
+13027,At Risk,High Value,Frequent
+13028,Recent,Low Value,Few
+13029,Recent,Average Value,Few
+13030,Recent,Low Value,Few
+13032,Needs Attention,Average Value,Few
+13033,Churned,Very Low Value,One-Time
+13034,Needs Attention,Low Value,Few
+13035,Needs Attention,Low Value,Few
+13037,At Risk,Low Value,Few
+13038,Needs Attention,Low Value,Few
+13040,Recent,Low Value,Few
+13043,Churned,Low Value,One-Time
+13044,Churned,Low Value,One-Time
+13045,At Risk,Low Value,One-Time
+13046,Recent,Low Value,Few
+13047,Needs Attention,Average Value,Frequent
+13048,Recent,Average Value,Occasional
+13049,Needs Attention,Low Value,Few
+13050,Recent,High Value,Frequent
+13052,Churned,Low Value,One-Time
+13055,Needs Attention,Average Value,Few
+13058,Recent,Very Low Value,Few
+13059,Churned,Very Low Value,One-Time
+13060,Churned,Low Value,One-Time
+13061,Needs Attention,Very Low Value,One-Time
+13062,Churned,Low Value,One-Time
+13064,Recent,Average Value,Occasional
+13065,Churned,Very Low Value,One-Time
+13066,Recent,Low Value,Few
+13067,Needs Attention,Very Low Value,One-Time
+13068,Recent,Low Value,Few
+13069,Recent,Average Value,Frequent
+13070,Churned,Very Low Value,One-Time
+13072,Churned,Very Low Value,One-Time
+13075,At Risk,Low Value,One-Time
+13077,Recent,Low Value,Occasional
+13078,Recent,High Value,Frequent
+13079,Recent,Very Low Value,Occasional
+13080,At Risk,Very Low Value,One-Time
+13081,Recent,High Value,Frequent
+13082,At Risk,Average Value,Frequent
+13083,Recent,Low Value,Few
+13085,At Risk,Low Value,Few
+13089,Recent,High Value,Frequent
+13090,Recent,High Value,Frequent
+13091,Recent,Low Value,One-Time
+13092,Needs Attention,Low Value,Occasional
+13093,Churned,High Value,Frequent
+13094,Recent,Average Value,Frequent
+13095,Needs Attention,Very Low Value,One-Time
+13097,Needs Attention,High Value,Frequent
+13098,Recent,High Value,Frequent
+13099,At Risk,Very Low Value,One-Time
+13101,Churned,Very Low Value,One-Time
+13102,Recent,High Value,Frequent
+13103,Needs Attention,Very Low Value,One-Time
+13104,Recent,Average Value,Frequent
+13106,At Risk,Very Low Value,One-Time
+13107,Needs Attention,Average Value,Occasional
+13108,Churned,Low Value,One-Time
+13109,Needs Attention,Low Value,Few
+13110,Recent,Average Value,Frequent
+13113,Recent,High Value,Frequent
+13115,Recent,Average Value,Occasional
+13116,At Risk,Low Value,One-Time
+13117,Recent,Low Value,Frequent
+13118,Recent,Average Value,Occasional
+13120,Churned,Very Low Value,One-Time
+13121,Churned,Very Low Value,One-Time
+13122,At Risk,Low Value,Few
+13124,Needs Attention,Average Value,Few
+13126,Recent,Average Value,Frequent
+13127,Needs Attention,Very Low Value,One-Time
+13130,At Risk,Very Low Value,One-Time
+13131,Recent,Average Value,Few
+13132,Churned,Very Low Value,One-Time
+13133,Churned,Very Low Value,Few
+13134,Needs Attention,Average Value,Occasional
+13135,Churned,Average Value,One-Time
+13136,Needs Attention,Average Value,Occasional
+13137,Recent,Average Value,Frequent
+13138,Recent,Low Value,Frequent
+13139,Recent,High Value,Frequent
+13140,At Risk,Low Value,Few
+13141,Needs Attention,Average Value,Occasional
+13142,Recent,Low Value,One-Time
+13144,Churned,Very Low Value,One-Time
+13145,Needs Attention,Low Value,Occasional
+13146,Recent,Very Low Value,One-Time
+13147,Recent,Low Value,Occasional
+13148,Recent,Average Value,Frequent
+13149,Recent,Average Value,Occasional
+13151,Churned,Average Value,One-Time
+13153,Recent,Low Value,One-Time
+13155,Needs Attention,Low Value,Occasional
+13157,Needs Attention,Average Value,Occasional
+13158,At Risk,Average Value,Occasional
+13159,Recent,Average Value,Occasional
+13160,Recent,Very Low Value,One-Time
+13161,Churned,Very Low Value,One-Time
+13162,At Risk,Average Value,Occasional
+13165,Needs Attention,Average Value,Few
+13166,Churned,Low Value,One-Time
+13167,Recent,Low Value,Occasional
+13168,Needs Attention,Average Value,Occasional
+13169,Needs Attention,Low Value,Few
+13170,Recent,Very Low Value,One-Time
+13171,Recent,Low Value,Few
+13173,Recent,Low Value,Few
+13174,Recent,Average Value,Few
+13176,Needs Attention,Low Value,One-Time
+13177,Needs Attention,Very Low Value,One-Time
+13178,Recent,High Value,Frequent
+13182,Needs Attention,Very Low Value,One-Time
+13183,Recent,Average Value,Frequent
+13184,Recent,Average Value,Frequent
+13185,Churned,Very Low Value,One-Time
+13186,Needs Attention,Average Value,Few
+13187,Churned,Very Low Value,One-Time
+13188,Recent,Very Low Value,One-Time
+13189,Recent,Very Low Value,Few
+13192,At Risk,Low Value,Few
+13193,Needs Attention,Very Low Value,One-Time
+13194,At Risk,Very Low Value,One-Time
+13196,Recent,Average Value,Occasional
+13198,Recent,Average Value,Frequent
+13199,Recent,High Value,Frequent
+13200,Recent,Low Value,Occasional
+13203,Recent,Low Value,Occasional
+13207,Recent,Very Low Value,Few
+13208,Needs Attention,Average Value,Occasional
+13209,Recent,High Value,Frequent
+13210,At Risk,Low Value,One-Time
+13211,Recent,Average Value,Few
+13212,Recent,Low Value,Few
+13213,Needs Attention,Average Value,Occasional
+13216,Churned,Low Value,One-Time
+13217,At Risk,Low Value,Few
+13218,At Risk,Very Low Value,One-Time
+13220,Needs Attention,Low Value,Occasional
+13221,Churned,Low Value,Few
+13223,Churned,Very Low Value,Few
+13224,Needs Attention,Average Value,Few
+13225,Recent,High Value,Frequent
+13226,Churned,Very Low Value,One-Time
+13227,Churned,Very Low Value,One-Time
+13228,Needs Attention,Low Value,One-Time
+13229,Churned,Very Low Value,One-Time
+13230,Recent,Average Value,Frequent
+13232,Recent,Average Value,Frequent
+13233,Needs Attention,Low Value,Few
+13235,Churned,Average Value,One-Time
+13236,Recent,Low Value,Few
+13238,Recent,Low Value,Occasional
+13239,Churned,Low Value,One-Time
+13240,At Risk,Low Value,Occasional
+13242,At Risk,Very Low Value,Few
+13243,Churned,Low Value,One-Time
+13244,At Risk,Very Low Value,One-Time
+13245,Needs Attention,Low Value,One-Time
+13246,Recent,Average Value,Frequent
+13247,Recent,Low Value,Occasional
+13248,At Risk,Low Value,Few
+13249,At Risk,Low Value,Few
+13253,At Risk,Average Value,Few
+13255,Recent,Low Value,Few
+13256,Recent,Very Low Value,One-Time
+13258,Recent,Low Value,Few
+13259,Needs Attention,Very Low Value,One-Time
+13260,Needs Attention,Low Value,One-Time
+13261,Churned,Low Value,Few
+13262,Churned,Very Low Value,One-Time
+13263,Recent,High Value,Frequent
+13265,Needs Attention,Average Value,Occasional
+13266,Recent,Average Value,Frequent
+13267,Recent,Average Value,Frequent
+13268,Recent,Average Value,Frequent
+13269,Recent,High Value,Frequent
+13270,Churned,Low Value,One-Time
+13271,Needs Attention,Very Low Value,One-Time
+13272,Recent,Very Low Value,Few
+13273,At Risk,Very Low Value,One-Time
+13276,Needs Attention,Low Value,Few
+13277,Recent,Very Low Value,Occasional
+13278,Needs Attention,Low Value,One-Time
+13279,Needs Attention,Very Low Value,One-Time
+13280,At Risk,Low Value,Few
+13282,Recent,Average Value,Few
+13283,Needs Attention,Very Low Value,Few
+13284,Churned,Very Low Value,One-Time
+13285,Recent,Average Value,Occasional
+13291,At Risk,Low Value,One-Time
+13292,Needs Attention,Low Value,Few
+13294,Churned,Low Value,Few
+13295,Churned,Very Low Value,One-Time
+13296,At Risk,Very Low Value,One-Time
+13297,Recent,Average Value,Occasional
+13298,Recent,Low Value,One-Time
+13299,Churned,Very Low Value,One-Time
+13300,At Risk,Low Value,One-Time
+13301,At Risk,Low Value,Occasional
+13302,At Risk,Very Low Value,One-Time
+13304,Churned,Low Value,One-Time
+13305,Recent,Average Value,Frequent
+13307,At Risk,Very Low Value,One-Time
+13308,Recent,Average Value,Few
+13309,Recent,Average Value,Occasional
+13310,Recent,Average Value,Few
+13311,Recent,Low Value,Few
+13313,Recent,Average Value,Occasional
+13314,Recent,Low Value,Few
+13316,Needs Attention,High Value,Occasional
+13317,Needs Attention,Average Value,Frequent
+13318,Recent,Low Value,Few
+13319,Recent,High Value,Frequent
+13320,Needs Attention,Average Value,Occasional
+13321,Needs Attention,Low Value,Few
+13322,Recent,Very Low Value,One-Time
+13323,Recent,Low Value,Occasional
+13324,Needs Attention,High Value,Frequent
+13325,Needs Attention,Low Value,One-Time
+13327,Needs Attention,Average Value,Frequent
+13328,Churned,Average Value,One-Time
+13329,Needs Attention,Low Value,Few
+13330,At Risk,Average Value,Few
+13332,Recent,Low Value,One-Time
+13334,Needs Attention,Average Value,Few
+13336,Needs Attention,Low Value,One-Time
+13338,At Risk,Low Value,One-Time
+13339,Churned,Low Value,One-Time
+13340,Needs Attention,High Value,Frequent
+13341,Churned,Low Value,One-Time
+13343,At Risk,Low Value,One-Time
+13344,Needs Attention,Average Value,Few
+13345,Churned,Low Value,One-Time
+13347,Needs Attention,Very Low Value,One-Time
+13348,Needs Attention,Very Low Value,One-Time
+13349,Recent,Very Low Value,One-Time
+13350,Recent,Low Value,Few
+13351,Needs Attention,Low Value,One-Time
+13352,Needs Attention,Low Value,One-Time
+13354,Needs Attention,Low Value,One-Time
+13355,At Risk,Low Value,One-Time
+13356,Needs Attention,Low Value,One-Time
+13357,Churned,Low Value,One-Time
+13358,Churned,Low Value,One-Time
+13359,Needs Attention,Low Value,One-Time
+13362,Recent,Average Value,Occasional
+13363,Recent,Low Value,Few
+13364,Needs Attention,Very Low Value,One-Time
+13365,Needs Attention,Average Value,Few
+13366,Needs Attention,Very Low Value,One-Time
+13368,Churned,Low Value,Few
+13369,Churned,Very Low Value,One-Time
+13370,Churned,Low Value,One-Time
+13372,Needs Attention,Low Value,One-Time
+13373,Needs Attention,Average Value,Few
+13375,Needs Attention,Low Value,One-Time
+13376,At Risk,Low Value,Few
+13379,Recent,Low Value,Few
+13381,Needs Attention,Average Value,Frequent
+13382,Churned,Very Low Value,One-Time
+13384,Recent,Average Value,Frequent
+13385,Churned,Low Value,One-Time
+13388,At Risk,Low Value,Few
+13389,Recent,Low Value,Few
+13390,Needs Attention,Low Value,One-Time
+13391,Churned,Very Low Value,One-Time
+13394,Recent,Average Value,Frequent
+13395,Churned,Low Value,One-Time
+13396,Recent,Average Value,Few
+13397,Needs Attention,Average Value,Occasional
+13398,Churned,Low Value,One-Time
+13402,At Risk,Low Value,Few
+13403,Recent,Very Low Value,One-Time
+13404,Recent,Very Low Value,Few
+13405,Churned,Low Value,Few
+13408,Recent,High Value,Frequent
+13410,Recent,Average Value,Occasional
+13411,At Risk,Very Low Value,One-Time
+13414,At Risk,Average Value,Few
+13416,Needs Attention,Low Value,Few
+13417,Recent,Low Value,Few
+13418,Recent,High Value,Frequent
+13419,Needs Attention,Very Low Value,One-Time
+13420,At Risk,Very Low Value,Few
+13421,Needs Attention,Average Value,Few
+13422,Needs Attention,Average Value,One-Time
+13425,At Risk,Average Value,Few
+13426,Recent,Average Value,Frequent
+13427,Recent,Low Value,Few
+13428,Recent,Very Low Value,One-Time
+13429,Recent,Average Value,Occasional
+13430,Recent,Low Value,Few
+13431,Needs Attention,Average Value,Few
+13434,Needs Attention,Low Value,Few
+13435,Recent,Average Value,Frequent
+13436,Recent,Very Low Value,One-Time
+13437,Recent,Average Value,Frequent
+13439,Churned,Very Low Value,One-Time
+13441,At Risk,Very Low Value,One-Time
+13447,Recent,Average Value,Few
+13448,Recent,Average Value,Frequent
+13449,Recent,Very Low Value,One-Time
+13450,Recent,Average Value,Frequent
+13451,Recent,Average Value,Occasional
+13452,Churned,Low Value,Few
+13453,At Risk,Low Value,Few
+13455,Recent,Average Value,Few
+13456,Recent,Average Value,Frequent
+13458,Recent,High Value,Frequent
+13460,Recent,Very Low Value,Few
+13461,Needs Attention,Average Value,Few
+13462,Churned,Very Low Value,One-Time
+13464,Needs Attention,Low Value,One-Time
+13466,Churned,Low Value,One-Time
+13467,Recent,Average Value,Few
+13468,Recent,High Value,Frequent
+13470,At Risk,Very Low Value,Few
+13471,Recent,Average Value,Occasional
+13473,Needs Attention,Low Value,Few
+13474,Churned,Very Low Value,One-Time
+13475,Churned,Average Value,Occasional
+13476,At Risk,Average Value,Few
+13477,Needs Attention,Average Value,Frequent
+13479,Churned,Low Value,Few
+13481,Needs Attention,Average Value,Occasional
+13482,Churned,Very Low Value,One-Time
+13483,Needs Attention,Very Low Value,One-Time
+13484,Churned,Low Value,One-Time
+13485,Churned,Low Value,One-Time
+13486,Needs Attention,Average Value,Few
+13487,Needs Attention,Low Value,Few
+13488,Recent,High Value,Frequent
+13489,At Risk,Low Value,Occasional
+13491,Needs Attention,Average Value,Frequent
+13492,At Risk,Average Value,Few
+13493,Churned,Low Value,Few
+13494,Churned,Low Value,One-Time
+13495,Recent,Average Value,Occasional
+13496,Recent,Low Value,Few
+13497,Churned,Low Value,Few
+13499,Recent,Average Value,Occasional
+13500,Recent,Average Value,Few
+13501,Churned,Average Value,One-Time
+13502,Recent,Very Low Value,Few
+13503,Needs Attention,Very Low Value,One-Time
+13504,Needs Attention,Very Low Value,One-Time
+13505,Needs Attention,Average Value,Occasional
+13506,Churned,Low Value,Few
+13507,Recent,Average Value,Occasional
+13508,Churned,Very Low Value,One-Time
+13509,Recent,Low Value,Frequent
+13510,Recent,Average Value,Occasional
+13512,Churned,Very Low Value,One-Time
+13513,At Risk,Very Low Value,One-Time
+13514,Needs Attention,Very Low Value,One-Time
+13515,Needs Attention,Low Value,Occasional
+13516,Recent,Average Value,Few
+13517,Needs Attention,Average Value,Few
+13518,Needs Attention,Low Value,One-Time
+13519,Needs Attention,Very Low Value,One-Time
+13520,Needs Attention,Average Value,Frequent
+13521,Recent,Average Value,Few
+13522,Recent,Very Low Value,One-Time
+13523,Needs Attention,Average Value,Occasional
+13524,Needs Attention,Low Value,Occasional
+13525,Recent,Low Value,Few
+13527,Needs Attention,Average Value,Frequent
+13529,Needs Attention,Low Value,Few
+13531,Churned,Low Value,Few
+13532,Needs Attention,Very Low Value,One-Time
+13533,Churned,Very Low Value,Few
+13534,Recent,High Value,Frequent
+13536,Recent,Average Value,Frequent
+13538,Needs Attention,Average Value,Frequent
+13539,Needs Attention,Low Value,Few
+13544,Needs Attention,Very Low Value,Few
+13546,Recent,Low Value,Few
+13548,At Risk,Low Value,Few
+13549,Recent,Low Value,Frequent
+13551,Churned,Very Low Value,One-Time
+13552,Needs Attention,Average Value,Frequent
+13555,Needs Attention,Average Value,Occasional
+13557,Recent,Low Value,Few
+13558,Recent,Low Value,Occasional
+13560,Recent,Very Low Value,One-Time
+13561,Churned,Very Low Value,One-Time
+13562,Needs Attention,Average Value,Few
+13563,Needs Attention,Low Value,Few
+13564,Churned,Average Value,Few
+13565,Recent,Very Low Value,Few
+13566,Needs Attention,Low Value,Few
+13568,At Risk,Very Low Value,One-Time
+13569,Recent,Low Value,Few
+13570,Churned,Very Low Value,One-Time
+13571,Recent,Average Value,Frequent
+13572,Churned,Average Value,One-Time
+13573,Needs Attention,Very Low Value,Few
+13575,Recent,Low Value,Occasional
+13576,Recent,High Value,Frequent
+13577,Recent,Average Value,Occasional
+13579,Recent,Low Value,Few
+13581,Churned,Very Low Value,One-Time
+13583,At Risk,Low Value,One-Time
+13584,Churned,Very Low Value,One-Time
+13587,Needs Attention,Low Value,One-Time
+13588,Recent,Average Value,Frequent
+13589,Recent,Low Value,Few
+13590,Recent,Average Value,Frequent
+13591,Needs Attention,Average Value,Few
+13592,Needs Attention,Very Low Value,Occasional
+13593,At Risk,Average Value,Occasional
+13594,Needs Attention,Low Value,One-Time
+13596,Recent,Low Value,Few
+13598,Needs Attention,Very Low Value,One-Time
+13599,Recent,High Value,Frequent
+13600,Churned,Very Low Value,One-Time
+13601,Needs Attention,Low Value,Few
+13602,Needs Attention,Low Value,One-Time
+13603,Recent,Very Low Value,One-Time
+13606,Recent,Very Low Value,Few
+13607,Needs Attention,Low Value,One-Time
+13610,Recent,Average Value,Frequent
+13611,Needs Attention,Average Value,Few
+13614,Recent,Average Value,Occasional
+13615,Churned,Low Value,One-Time
+13617,Needs Attention,Low Value,Few
+13618,At Risk,Very Low Value,One-Time
+13621,At Risk,Very Low Value,One-Time
+13623,Recent,Low Value,Occasional
+13626,Churned,Very Low Value,One-Time
+13627,Needs Attention,Average Value,Occasional
+13629,Recent,High Value,Frequent
+13630,Recent,Average Value,Frequent
+13631,At Risk,Average Value,Frequent
+13632,Recent,Average Value,Occasional
+13634,Needs Attention,Average Value,Occasional
+13635,Needs Attention,Average Value,One-Time
+13636,Needs Attention,Low Value,Occasional
+13637,Needs Attention,Low Value,Few
+13638,Recent,Very Low Value,One-Time
+13639,Needs Attention,Average Value,One-Time
+13642,Churned,Low Value,One-Time
+13643,Recent,Low Value,Few
+13644,Recent,Average Value,Occasional
+13645,At Risk,Very Low Value,One-Time
+13647,Recent,Average Value,Occasional
+13649,Churned,Low Value,Few
+13650,Recent,Average Value,Frequent
+13651,Needs Attention,Very Low Value,One-Time
+13652,Needs Attention,Average Value,Few
+13654,Needs Attention,Average Value,Frequent
+13655,At Risk,Low Value,Few
+13656,At Risk,Low Value,Few
+13657,Recent,Low Value,Few
+13658,Recent,Average Value,Occasional
+13659,Churned,Average Value,Few
+13662,Needs Attention,Low Value,Few
+13663,At Risk,Very Low Value,One-Time
+13666,Needs Attention,Very Low Value,Few
+13667,At Risk,Low Value,One-Time
+13668,Recent,High Value,Frequent
+13669,Needs Attention,Very Low Value,Few
+13670,Needs Attention,Low Value,One-Time
+13672,Churned,Very Low Value,Few
+13673,Recent,Low Value,Few
+13675,At Risk,Low Value,Few
+13678,At Risk,Very Low Value,One-Time
+13680,Recent,Average Value,Occasional
+13681,Recent,Low Value,Occasional
+13682,Churned,Very Low Value,One-Time
+13684,Churned,Very Low Value,One-Time
+13685,Recent,Average Value,Frequent
+13686,Churned,Very Low Value,One-Time
+13689,Needs Attention,Low Value,One-Time
+13690,Needs Attention,Very Low Value,One-Time
+13692,Recent,Average Value,Few
+13694,Recent,High Value,Frequent
+13695,Recent,Average Value,Frequent
+13697,Needs Attention,Very Low Value,One-Time
+13699,At Risk,Low Value,One-Time
+13700,Recent,Average Value,Frequent
+13703,Churned,Very Low Value,One-Time
+13704,Recent,Average Value,Frequent
+13705,Recent,Low Value,Few
+13706,Churned,Low Value,One-Time
+13707,Churned,Low Value,Few
+13708,Churned,Very Low Value,One-Time
+13709,Recent,High Value,Frequent
+13710,Needs Attention,Very Low Value,One-Time
+13711,Churned,Very Low Value,Few
+13712,Churned,Very Low Value,One-Time
+13715,Churned,Average Value,Occasional
+13716,Churned,Very Low Value,One-Time
+13717,Needs Attention,Average Value,Frequent
+13718,Churned,Low Value,Few
+13719,Recent,Average Value,Occasional
+13720,At Risk,Low Value,Occasional
+13721,Needs Attention,Low Value,One-Time
+13722,At Risk,Average Value,Few
+13723,Churned,Very Low Value,One-Time
+13725,Needs Attention,Average Value,Frequent
+13726,Needs Attention,Average Value,Few
+13727,Recent,Low Value,Few
+13728,Needs Attention,Average Value,Frequent
+13730,At Risk,Low Value,Few
+13731,Churned,Low Value,Few
+13732,Recent,Low Value,One-Time
+13735,Recent,Average Value,Occasional
+13736,Recent,Low Value,Few
+13737,Churned,Low Value,One-Time
+13739,Recent,Very Low Value,One-Time
+13740,Churned,Low Value,One-Time
+13741,Needs Attention,Low Value,Few
+13742,Recent,Average Value,Frequent
+13743,Recent,Average Value,Frequent
+13744,At Risk,Average Value,Few
+13745,At Risk,Low Value,One-Time
+13747,Churned,Very Low Value,One-Time
+13748,At Risk,Low Value,Occasional
+13750,Needs Attention,Average Value,Occasional
+13751,Churned,Very Low Value,One-Time
+13752,At Risk,Average Value,Frequent
+13753,Churned,Low Value,One-Time
+13754,At Risk,Very Low Value,Few
+13755,Recent,Average Value,Frequent
+13756,Recent,High Value,Frequent
+13758,Recent,Average Value,Frequent
+13759,Needs Attention,Low Value,Few
+13760,Needs Attention,Very Low Value,Few
+13761,Needs Attention,Average Value,Few
+13762,Churned,Low Value,One-Time
+13763,Needs Attention,Average Value,One-Time
+13764,Needs Attention,Average Value,Few
+13767,Recent,High Value,Frequent
+13769,Recent,Average Value,Frequent
+13771,Needs Attention,Average Value,Occasional
+13772,Needs Attention,Average Value,Few
+13774,Needs Attention,Low Value,One-Time
+13777,Recent,High Value,Frequent
+13778,At Risk,Very Low Value,One-Time
+13780,Recent,Low Value,Few
+13781,Churned,Very Low Value,One-Time
+13782,Recent,Low Value,Frequent
+13784,Recent,Average Value,Frequent
+13786,Churned,Very Low Value,One-Time
+13787,Needs Attention,Low Value,Few
+13790,Recent,Low Value,One-Time
+13791,At Risk,Average Value,Few
+13792,Needs Attention,Very Low Value,Few
+13798,Recent,High Value,Frequent
+13799,At Risk,Low Value,Few
+13800,Churned,Low Value,One-Time
+13801,Needs Attention,Low Value,One-Time
+13802,At Risk,Average Value,Few
+13803,Churned,Very Low Value,One-Time
+13804,Recent,Average Value,Frequent
+13805,Needs Attention,Low Value,Few
+13806,Needs Attention,Very Low Value,One-Time
+13807,Churned,Very Low Value,One-Time
+13808,Recent,Average Value,Occasional
+13809,Churned,Very Low Value,One-Time
+13810,Recent,Low Value,Few
+13811,Churned,Low Value,Few
+13812,Needs Attention,Low Value,Few
+13813,Needs Attention,Average Value,Occasional
+13814,At Risk,Average Value,Few
+13815,Recent,Average Value,Occasional
+13816,Recent,Low Value,Few
+13817,Recent,Low Value,Few
+13819,Churned,Average Value,Few
+13821,At Risk,Low Value,Few
+13822,Recent,Low Value,Few
+13823,Recent,Low Value,Few
+13824,Needs Attention,Average Value,Occasional
+13826,At Risk,Very Low Value,One-Time
+13827,Needs Attention,Low Value,Few
+13828,Recent,Very Low Value,One-Time
+13831,Recent,Average Value,Frequent
+13832,Recent,Very Low Value,One-Time
+13833,At Risk,Low Value,One-Time
+13835,Recent,Low Value,Occasional
+13837,Churned,Very Low Value,Few
+13838,Recent,Low Value,Occasional
+13841,Churned,Very Low Value,One-Time
+13842,Needs Attention,Average Value,Frequent
+13844,Recent,Low Value,One-Time
+13845,Needs Attention,Low Value,One-Time
+13846,Recent,Low Value,Few
+13848,At Risk,Average Value,Few
+13849,Needs Attention,Average Value,Few
+13850,At Risk,Average Value,One-Time
+13851,At Risk,Average Value,Few
+13853,Needs Attention,Average Value,One-Time
+13854,Recent,High Value,Frequent
+13856,At Risk,Low Value,Few
+13858,Needs Attention,Very Low Value,One-Time
+13859,Churned,Very Low Value,One-Time
+13860,Recent,Average Value,Occasional
+13862,Recent,Average Value,Frequent
+13863,Churned,Low Value,One-Time
+13865,Needs Attention,Low Value,Occasional
+13866,Needs Attention,Very Low Value,One-Time
+13867,Recent,Average Value,Few
+13868,Recent,Average Value,Few
+13869,At Risk,Average Value,Occasional
+13870,Recent,Average Value,Frequent
+13871,Recent,High Value,Frequent
+13873,At Risk,Low Value,Few
+13874,Churned,Low Value,One-Time
+13875,Needs Attention,Average Value,Occasional
+13876,Needs Attention,Very Low Value,One-Time
+13877,Needs Attention,Very Low Value,One-Time
+13878,Needs Attention,Average Value,One-Time
+13880,Recent,Average Value,Frequent
+13881,Recent,High Value,Frequent
+13882,Recent,Average Value,Occasional
+13883,Recent,Average Value,Occasional
+13884,Recent,Low Value,Occasional
+13885,Churned,Low Value,Few
+13886,Needs Attention,Very Low Value,One-Time
+13887,Churned,Low Value,One-Time
+13888,At Risk,Low Value,Few
+13889,At Risk,Low Value,One-Time
+13890,Recent,Average Value,Frequent
+13892,Recent,Low Value,Occasional
+13893,Churned,Low Value,One-Time
+13894,Recent,Low Value,Few
+13895,Recent,Average Value,Occasional
+13897,Needs Attention,Low Value,One-Time
+13898,Churned,Very Low Value,One-Time
+13899,Recent,Low Value,Few
+13900,Churned,Low Value,Few
+13901,Needs Attention,Average Value,Occasional
+13904,Needs Attention,Low Value,Few
+13908,Needs Attention,Average Value,Occasional
+13911,Needs Attention,Average Value,Frequent
+13914,Recent,Low Value,Few
+13917,Needs Attention,Very Low Value,Few
+13918,Needs Attention,Average Value,Few
+13919,Needs Attention,Low Value,Few
+13922,Churned,Very Low Value,One-Time
+13923,Needs Attention,Low Value,One-Time
+13924,Recent,Average Value,Frequent
+13925,At Risk,Low Value,Occasional
+13926,Recent,Very Low Value,One-Time
+13927,Needs Attention,Low Value,One-Time
+13928,Recent,Low Value,Occasional
+13929,At Risk,Low Value,Few
+13930,Needs Attention,Low Value,Few
+13931,At Risk,Average Value,Few
+13932,Churned,Low Value,One-Time
+13933,At Risk,Low Value,Few
+13934,Churned,Low Value,One-Time
+13936,At Risk,Low Value,One-Time
+13937,At Risk,Very Low Value,One-Time
+13938,Needs Attention,Very Low Value,One-Time
+13939,Recent,Low Value,Few
+13940,Recent,Low Value,Occasional
+13941,Recent,High Value,Occasional
+13946,Needs Attention,Low Value,Few
+13947,Needs Attention,Very Low Value,One-Time
+13948,Churned,Very Low Value,One-Time
+13949,Recent,Average Value,Frequent
+13950,Recent,Low Value,Occasional
+13951,At Risk,Low Value,Few
+13952,Churned,Average Value,Few
+13953,Recent,Average Value,Frequent
+13954,Recent,Low Value,Few
+13955,At Risk,Low Value,Few
+13956,Recent,Average Value,Occasional
+13959,Needs Attention,Low Value,Few
+13960,Recent,Very Low Value,Few
+13962,Recent,Very Low Value,Few
+13963,Churned,Low Value,Occasional
+13967,At Risk,Very Low Value,One-Time
+13969,Recent,High Value,Frequent
+13971,Recent,Average Value,Frequent
+13972,Needs Attention,Very Low Value,Few
+13973,Churned,Very Low Value,One-Time
+13974,Needs Attention,Low Value,One-Time
+13975,Recent,Average Value,Frequent
+13976,Churned,Low Value,One-Time
+13978,Recent,Very Low Value,Few
+13979,Needs Attention,Low Value,One-Time
+13980,Needs Attention,Very Low Value,One-Time
+13982,Needs Attention,Average Value,Occasional
+13983,Recent,Average Value,Frequent
+13984,Recent,Low Value,Occasional
+13985,Recent,High Value,Frequent
+13986,Recent,Low Value,One-Time
+13988,Recent,Average Value,Frequent
+13989,Needs Attention,Average Value,Few
+13990,Churned,Low Value,One-Time
+13991,Recent,Low Value,Frequent
+13992,Recent,Very Low Value,One-Time
+13993,Needs Attention,Average Value,Frequent
+13994,Recent,Average Value,Frequent
+13995,Recent,Average Value,Occasional
+13999,Recent,Average Value,Frequent
+14000,Churned,Low Value,One-Time
+14001,Needs Attention,Average Value,Few
+14002,At Risk,Low Value,Few
+14004,Needs Attention,Average Value,Frequent
+14005,Recent,Average Value,Occasional
+14006,At Risk,Low Value,Few
+14009,Churned,Low Value,Few
+14012,Churned,Low Value,One-Time
+14013,At Risk,Low Value,Few
+14014,Needs Attention,Low Value,One-Time
+14015,Needs Attention,Low Value,One-Time
+14016,At Risk,Average Value,Occasional
+14019,Needs Attention,Average Value,Few
+14020,Recent,Low Value,Few
+14021,At Risk,Low Value,Few
+14022,Churned,Low Value,One-Time
+14023,Recent,Low Value,Few
+14024,At Risk,Low Value,Few
+14027,Needs Attention,Very Low Value,One-Time
+14029,Needs Attention,Low Value,Few
+14030,Recent,Average Value,Frequent
+14031,Recent,High Value,Frequent
+14032,Recent,Average Value,Frequent
+14034,Recent,Low Value,Few
+14035,Recent,Average Value,Occasional
+14036,Churned,Low Value,One-Time
+14037,At Risk,Very Low Value,Few
+14038,Needs Attention,Average Value,Few
+14039,Needs Attention,Very Low Value,One-Time
+14040,Needs Attention,Average Value,Frequent
+14041,Churned,Very Low Value,One-Time
+14044,Recent,Low Value,Occasional
+14045,At Risk,Average Value,Occasional
+14046,Churned,Very Low Value,One-Time
+14047,Recent,Average Value,Occasional
+14048,Churned,Low Value,One-Time
+14049,Recent,High Value,Occasional
+14050,Needs Attention,Low Value,Few
+14051,Recent,High Value,Frequent
+14052,Recent,Very Low Value,One-Time
+14053,At Risk,Very Low Value,Few
+14054,Needs Attention,Very Low Value,One-Time
+14055,At Risk,Low Value,One-Time
+14056,Recent,High Value,Frequent
+14057,Recent,High Value,Frequent
+14059,Churned,Very Low Value,One-Time
+14060,Recent,High Value,Frequent
+14062,Recent,High Value,Frequent
+14064,Recent,Average Value,Occasional
+14066,Churned,Very Low Value,One-Time
+14067,Needs Attention,Low Value,Few
+14068,Churned,Very Low Value,One-Time
+14071,Recent,Average Value,Frequent
+14073,Needs Attention,Very Low Value,One-Time
+14075,Recent,Low Value,Few
+14076,At Risk,Very Low Value,One-Time
+14077,Needs Attention,Low Value,Occasional
+14078,At Risk,Average Value,Frequent
+14079,At Risk,Low Value,One-Time
+14080,Needs Attention,Very Low Value,One-Time
+14081,Churned,Low Value,Few
+14082,Churned,Very Low Value,One-Time
+14083,Recent,Average Value,Frequent
+14085,Recent,Average Value,Frequent
+14087,Recent,Very Low Value,One-Time
+14088,Recent,High Value,Frequent
+14089,Needs Attention,Very Low Value,One-Time
+14090,Churned,Very Low Value,One-Time
+14092,Recent,Average Value,Frequent
+14093,Recent,Low Value,One-Time
+14096,Recent,High Value,Frequent
+14098,Needs Attention,Very Low Value,One-Time
+14099,Recent,Average Value,Frequent
+14100,At Risk,Very Low Value,One-Time
+14101,Needs Attention,High Value,Frequent
+14102,Recent,Average Value,Occasional
+14104,At Risk,Very Low Value,Few
+14105,Churned,Average Value,One-Time
+14107,Needs Attention,Average Value,Frequent
+14108,Recent,Low Value,Few
+14109,Needs Attention,Very Low Value,One-Time
+14110,Recent,High Value,Frequent
+14111,Recent,Low Value,Occasional
+14112,Recent,Average Value,Frequent
+14113,Recent,Average Value,Occasional
+14114,Churned,Low Value,Few
+14116,Recent,Average Value,Occasional
+14117,At Risk,Very Low Value,One-Time
+14121,Recent,Average Value,Occasional
+14124,Needs Attention,Low Value,One-Time
+14125,Recent,Average Value,Few
+14126,Recent,Low Value,Few
+14127,At Risk,Low Value,Few
+14128,Needs Attention,Low Value,Few
+14129,Recent,Average Value,Occasional
+14130,Churned,Low Value,One-Time
+14132,Recent,Average Value,Frequent
+14133,At Risk,Low Value,Few
+14135,Recent,Average Value,Frequent
+14138,Recent,Low Value,Few
+14139,Needs Attention,Low Value,One-Time
+14140,Recent,Low Value,Few
+14141,Recent,Low Value,Occasional
+14142,Churned,Low Value,One-Time
+14143,At Risk,Very Low Value,One-Time
+14145,Needs Attention,Average Value,Occasional
+14146,Recent,Average Value,Occasional
+14147,Needs Attention,Low Value,Few
+14148,Churned,Very Low Value,One-Time
+14149,Churned,Low Value,One-Time
+14150,Needs Attention,Low Value,Few
+14152,Needs Attention,Low Value,Few
+14154,Churned,Average Value,Few
+14155,Churned,Very Low Value,One-Time
+14156,Recent,High Value,Frequent
+14157,Recent,Low Value,Few
+14158,Needs Attention,Low Value,One-Time
+14159,Recent,Average Value,Frequent
+14161,Churned,Average Value,Few
+14162,At Risk,Very Low Value,Few
+14163,Needs Attention,Average Value,Occasional
+14164,Needs Attention,Average Value,Few
+14165,Churned,Very Low Value,One-Time
+14167,Needs Attention,Low Value,Occasional
+14171,At Risk,Low Value,One-Time
+14173,Recent,Low Value,Occasional
+14174,Needs Attention,Very Low Value,One-Time
+14175,Needs Attention,Average Value,Few
+14176,Churned,Low Value,Occasional
+14177,Needs Attention,Low Value,Occasional
+14178,Recent,Average Value,Frequent
+14179,Needs Attention,Low Value,Few
+14180,Recent,Average Value,Frequent
+14184,Needs Attention,Low Value,One-Time
+14185,Churned,Very Low Value,One-Time
+14188,Recent,Average Value,Frequent
+14189,Recent,Average Value,Frequent
+14191,Recent,Average Value,Frequent
+14193,Needs Attention,Low Value,Few
+14194,Recent,High Value,Frequent
+14195,Churned,Average Value,Few
+14196,At Risk,Low Value,One-Time
+14198,Recent,Low Value,Occasional
+14199,Churned,Very Low Value,One-Time
+14201,Needs Attention,Low Value,Frequent
+14204,Recent,Very Low Value,One-Time
+14205,Recent,Low Value,Few
+14206,Churned,Low Value,One-Time
+14208,At Risk,Very Low Value,One-Time
+14209,Recent,Average Value,Frequent
+14210,At Risk,Average Value,Frequent
+14211,Needs Attention,Average Value,Frequent
+14212,Needs Attention,Average Value,One-Time
+14214,Recent,Average Value,Occasional
+14215,Recent,Average Value,Frequent
+14216,Recent,Average Value,Occasional
+14217,Recent,Average Value,Frequent
+14218,Needs Attention,Very Low Value,One-Time
+14219,Recent,Very Low Value,One-Time
+14220,Churned,Low Value,Few
+14221,Needs Attention,Average Value,Frequent
+14222,At Risk,Low Value,One-Time
+14223,At Risk,Low Value,Few
+14224,At Risk,Average Value,Occasional
+14226,Recent,Average Value,Occasional
+14227,Recent,Average Value,Frequent
+14229,Needs Attention,Average Value,Few
+14231,Churned,Low Value,Few
+14232,Needs Attention,Average Value,Occasional
+14233,Needs Attention,Average Value,Occasional
+14234,Recent,Low Value,Occasional
+14235,Needs Attention,Average Value,Occasional
+14236,Needs Attention,Low Value,Few
+14237,Churned,Very Low Value,One-Time
+14238,Churned,Very Low Value,One-Time
+14239,Needs Attention,Average Value,Frequent
+14240,Recent,Low Value,Few
+14241,Churned,Very Low Value,One-Time
+14242,Churned,Very Low Value,Few
+14243,Recent,Average Value,Frequent
+14245,Churned,Average Value,Few
+14246,At Risk,Average Value,Few
+14247,Churned,Very Low Value,One-Time
+14248,Churned,Low Value,One-Time
+14250,Recent,Average Value,Few
+14251,Recent,Average Value,Occasional
+14256,Churned,Low Value,Few
+14257,Needs Attention,Average Value,Occasional
+14258,Recent,High Value,Frequent
+14259,At Risk,Very Low Value,One-Time
+14261,Needs Attention,Average Value,Few
+14262,Recent,Average Value,Frequent
+14264,At Risk,Low Value,Few
+14265,At Risk,Low Value,Few
+14267,At Risk,Average Value,Few
+14270,Churned,Low Value,One-Time
+14271,Churned,Very Low Value,One-Time
+14272,Needs Attention,Low Value,Few
+14273,Needs Attention,Low Value,Occasional
+14276,At Risk,Average Value,Few
+14277,Recent,Average Value,Few
+14280,Churned,Very Low Value,One-Time
+14282,Recent,Average Value,Frequent
+14284,Recent,Low Value,Few
+14285,Recent,Average Value,Occasional
+14286,Recent,Average Value,Few
+14287,Recent,Very Low Value,Few
+14288,Churned,Low Value,One-Time
+14289,Recent,Low Value,Frequent
+14290,Recent,Average Value,Occasional
+14291,Recent,Average Value,Frequent
+14292,Recent,Average Value,Frequent
+14293,Recent,Average Value,Occasional
+14295,Needs Attention,Very Low Value,One-Time
+14297,Recent,Average Value,Occasional
+14298,Recent,High Value,Frequent
+14299,Recent,Average Value,Frequent
+14300,Recent,Very Low Value,One-Time
+14301,At Risk,Low Value,One-Time
+14304,Churned,Low Value,One-Time
+14305,Needs Attention,Average Value,Few
+14306,Needs Attention,Average Value,Few
+14307,Needs Attention,Average Value,Frequent
+14309,Recent,Average Value,Frequent
+14311,Churned,Low Value,One-Time
+14312,Needs Attention,Average Value,Frequent
+14314,At Risk,Very Low Value,One-Time
+14315,Needs Attention,Average Value,Frequent
+14317,Needs Attention,Low Value,One-Time
+14320,Churned,Low Value,Few
+14321,Recent,Average Value,Occasional
+14323,At Risk,Low Value,Few
+14326,Churned,Very Low Value,One-Time
+14327,At Risk,Low Value,One-Time
+14329,Recent,High Value,Frequent
+14331,At Risk,Low Value,Few
+14332,Recent,Low Value,Few
+14333,Needs Attention,Low Value,One-Time
+14334,Recent,Average Value,Frequent
+14335,Recent,Low Value,Few
+14336,Recent,Average Value,Occasional
+14338,At Risk,Low Value,Few
+14339,Churned,Low Value,One-Time
+14340,Churned,Very Low Value,One-Time
+14341,Needs Attention,Average Value,Frequent
+14342,Recent,Low Value,Occasional
+14344,At Risk,Low Value,Frequent
+14345,Needs Attention,Very Low Value,One-Time
+14346,At Risk,Average Value,Few
+14348,Churned,Low Value,One-Time
+14349,Recent,Very Low Value,One-Time
+14350,Churned,Very Low Value,One-Time
+14351,At Risk,Very Low Value,One-Time
+14352,At Risk,Average Value,Occasional
+14353,Churned,Very Low Value,One-Time
+14354,Recent,Very Low Value,Few
+14355,Churned,Very Low Value,One-Time
+14356,Needs Attention,Low Value,Few
+14357,Needs Attention,Very Low Value,One-Time
+14359,Recent,Low Value,Few
+14360,Needs Attention,Average Value,Occasional
+14362,Recent,Very Low Value,One-Time
+14364,At Risk,Average Value,Frequent
+14367,Recent,High Value,Frequent
+14368,Churned,Very Low Value,One-Time
+14371,Churned,Very Low Value,One-Time
+14373,Churned,Very Low Value,One-Time
+14375,Churned,Very Low Value,One-Time
+14377,Churned,Low Value,Few
+14379,Needs Attention,Low Value,Few
+14381,Needs Attention,Very Low Value,One-Time
+14382,Recent,Low Value,One-Time
+14383,Needs Attention,Average Value,Few
+14385,Recent,Very Low Value,Few
+14386,Churned,Very Low Value,One-Time
+14387,Needs Attention,Average Value,Few
+14388,Recent,Average Value,Frequent
+14389,Needs Attention,Average Value,Few
+14390,Recent,Average Value,Frequent
+14393,Churned,Very Low Value,One-Time
+14395,Recent,Average Value,Frequent
+14396,Needs Attention,Low Value,Few
+14397,Recent,Average Value,Frequent
+14400,At Risk,Low Value,One-Time
+14401,Recent,Average Value,Frequent
+14403,At Risk,Average Value,Occasional
+14404,Needs Attention,Average Value,Frequent
+14406,At Risk,Very Low Value,One-Time
+14407,At Risk,Average Value,Occasional
+14408,Recent,Average Value,Frequent
+14409,Needs Attention,Average Value,Frequent
+14410,At Risk,Average Value,Frequent
+14411,Churned,Average Value,One-Time
+14412,Needs Attention,Low Value,Few
+14413,Churned,Very Low Value,One-Time
+14414,At Risk,Average Value,Frequent
+14415,Recent,High Value,Frequent
+14416,Recent,Low Value,Few
+14418,Recent,Average Value,Few
+14419,Recent,Average Value,Frequent
+14420,At Risk,Low Value,One-Time
+14421,Needs Attention,Low Value,Few
+14422,Recent,Average Value,Frequent
+14423,Churned,Very Low Value,One-Time
+14424,Recent,Low Value,One-Time
+14426,Recent,Average Value,Frequent
+14427,Needs Attention,Low Value,Few
+14428,Recent,Average Value,Occasional
+14431,Churned,Low Value,One-Time
+14432,Recent,Average Value,Frequent
+14434,Recent,Average Value,Frequent
+14436,At Risk,Very Low Value,One-Time
+14437,Churned,Very Low Value,One-Time
+14438,Churned,Very Low Value,One-Time
+14439,Churned,Average Value,One-Time
+14440,Recent,Average Value,Occasional
+14441,Recent,Average Value,Occasional
+14442,Churned,Average Value,Few
+14443,Needs Attention,Average Value,Occasional
+14446,Recent,Average Value,Occasional
+14447,Recent,Average Value,Occasional
+14448,Recent,Low Value,Few
+14449,Recent,Low Value,Occasional
+14450,At Risk,Low Value,Few
+14451,Needs Attention,Low Value,Few
+14452,Recent,Very Low Value,Few
+14453,Churned,Very Low Value,One-Time
+14456,Recent,Average Value,Frequent
+14457,Churned,Very Low Value,One-Time
+14459,At Risk,Average Value,One-Time
+14460,At Risk,Low Value,Few
+14461,At Risk,Average Value,Few
+14462,Needs Attention,Average Value,Frequent
+14463,At Risk,Low Value,Few
+14465,Churned,Average Value,Few
+14466,Recent,Average Value,Frequent
+14467,Recent,Low Value,Occasional
+14470,Recent,Low Value,Few
+14472,At Risk,Average Value,Frequent
+14473,Needs Attention,Very Low Value,Few
+14474,Needs Attention,Low Value,One-Time
+14475,Needs Attention,Low Value,Few
+14476,Churned,Very Low Value,One-Time
+14477,Recent,Average Value,Occasional
+14479,Churned,Low Value,Few
+14480,Recent,Very Low Value,One-Time
+14481,At Risk,Low Value,Few
+14482,Recent,Average Value,Frequent
+14483,Churned,Very Low Value,One-Time
+14484,Needs Attention,Low Value,One-Time
+14485,Needs Attention,Very Low Value,One-Time
+14487,Recent,Average Value,Frequent
+14488,Needs Attention,Average Value,One-Time
+14489,Churned,Low Value,One-Time
+14491,At Risk,Low Value,Few
+14493,Recent,Average Value,Occasional
+14494,Recent,Very Low Value,One-Time
+14495,Needs Attention,Very Low Value,Few
+14496,Churned,Low Value,Few
+14497,Churned,Low Value,One-Time
+14498,Needs Attention,Average Value,Occasional
+14499,Recent,Low Value,Few
+14500,Needs Attention,Low Value,Few
+14501,Churned,Very Low Value,Few
+14502,Recent,Average Value,Frequent
+14503,Recent,Average Value,Frequent
+14504,Needs Attention,Low Value,Occasional
+14505,Recent,High Value,Frequent
+14506,Recent,Average Value,Occasional
+14507,Recent,Average Value,Frequent
+14508,Recent,Very Low Value,Few
+14511,Recent,Average Value,Occasional
+14512,Churned,Very Low Value,Few
+14513,At Risk,Low Value,Few
+14514,Needs Attention,Average Value,Few
+14515,Recent,Average Value,Frequent
+14517,Needs Attention,Low Value,Few
+14518,Needs Attention,Very Low Value,One-Time
+14520,Recent,Very Low Value,Few
+14522,Recent,Low Value,Occasional
+14523,At Risk,Very Low Value,One-Time
+14524,Needs Attention,Average Value,Frequent
+14525,Recent,Average Value,Frequent
+14527,Recent,High Value,Frequent
+14528,Needs Attention,Low Value,One-Time
+14529,Needs Attention,Low Value,Few
+14530,Recent,Average Value,Frequent
+14532,Churned,Low Value,Occasional
+14533,Recent,Average Value,Frequent
+14534,Recent,Average Value,Frequent
+14535,Needs Attention,Average Value,Few
+14536,Churned,Very Low Value,One-Time
+14537,Needs Attention,Low Value,One-Time
+14538,Needs Attention,Low Value,Few
+14539,Recent,Low Value,Few
+14540,Recent,Low Value,Few
+14541,Needs Attention,Average Value,Frequent
+14542,Churned,Very Low Value,One-Time
+14543,Recent,Average Value,Frequent
+14544,Recent,Average Value,Few
+14546,Recent,Average Value,Occasional
+14547,Recent,Average Value,Frequent
+14548,At Risk,Low Value,Few
+14549,Churned,Very Low Value,One-Time
+14550,Recent,Low Value,Few
+14551,Recent,Very Low Value,Few
+14552,At Risk,Very Low Value,One-Time
+14553,Recent,Low Value,Occasional
+14554,Recent,Average Value,Occasional
+14555,Needs Attention,Low Value,Few
+14557,Needs Attention,Low Value,One-Time
+14560,Recent,Average Value,Frequent
+14561,Needs Attention,Average Value,Few
+14562,Recent,High Value,Frequent
+14565,At Risk,Average Value,Occasional
+14566,At Risk,Average Value,One-Time
+14567,Needs Attention,Average Value,Few
+14569,Recent,Very Low Value,One-Time
+14570,Churned,Very Low Value,Few
+14572,Recent,Average Value,Frequent
+14573,At Risk,Average Value,Frequent
+14576,Churned,Very Low Value,One-Time
+14577,Recent,Low Value,Occasional
+14578,Recent,Very Low Value,One-Time
+14581,Recent,Very Low Value,One-Time
+14582,Needs Attention,Very Low Value,One-Time
+14583,Recent,Average Value,Occasional
+14584,At Risk,Average Value,Occasional
+14585,Needs Attention,Very Low Value,One-Time
+14586,Churned,Very Low Value,One-Time
+14587,Recent,Average Value,Frequent
+14589,Churned,Very Low Value,One-Time
+14591,Recent,Average Value,Occasional
+14592,Needs Attention,Low Value,Few
+14593,Recent,Low Value,Few
+14594,Recent,Low Value,Few
+14595,Recent,Average Value,Frequent
+14597,Recent,Low Value,Few
+14598,Needs Attention,Very Low Value,One-Time
+14600,Churned,Low Value,One-Time
+14601,Recent,Very Low Value,One-Time
+14603,Churned,Low Value,One-Time
+14606,Recent,High Value,Frequent
+14607,Recent,High Value,Frequent
+14608,Recent,Average Value,Occasional
+14609,Needs Attention,Low Value,Occasional
+14616,Churned,Low Value,Few
+14618,Recent,Low Value,Few
+14619,Churned,Low Value,One-Time
+14620,Churned,Low Value,Few
+14621,Recent,Average Value,Occasional
+14622,Churned,Low Value,One-Time
+14623,Needs Attention,Low Value,Occasional
+14624,Needs Attention,Very Low Value,Few
+14625,Churned,Low Value,Few
+14626,Recent,Average Value,Occasional
+14628,Needs Attention,Low Value,Few
+14629,Recent,Low Value,Few
+14631,Needs Attention,Average Value,Few
+14632,Churned,Very Low Value,One-Time
+14633,Churned,Low Value,One-Time
+14636,Needs Attention,Low Value,Few
+14638,Needs Attention,Low Value,One-Time
+14639,Needs Attention,Average Value,Frequent
+14640,Recent,Average Value,Frequent
+14641,Recent,Very Low Value,One-Time
+14642,Needs Attention,Very Low Value,One-Time
+14643,At Risk,Low Value,Few
+14644,Needs Attention,Low Value,Few
+14645,At Risk,Low Value,Few
+14646,Recent,High Value,Frequent
+14647,Churned,Very Low Value,One-Time
+14649,Recent,Average Value,Occasional
+14651,Needs Attention,Low Value,Few
+14652,Needs Attention,Very Low Value,One-Time
+14653,Recent,Average Value,Frequent
+14655,Recent,Average Value,Occasional
+14656,At Risk,Very Low Value,Few
+14657,Recent,Low Value,Occasional
+14658,Recent,Very Low Value,Few
+14659,Recent,Average Value,Frequent
+14660,Needs Attention,Very Low Value,Few
+14661,Recent,Very Low Value,One-Time
+14662,Recent,Low Value,Occasional
+14664,Recent,Low Value,Few
+14665,Needs Attention,Average Value,Occasional
+14666,Recent,Very Low Value,One-Time
+14667,Recent,High Value,Frequent
+14669,Churned,Average Value,Few
+14670,Churned,Low Value,Few
+14672,Churned,Low Value,Few
+14673,Recent,Average Value,Occasional
+14675,Recent,Low Value,One-Time
+14676,Recent,Average Value,Frequent
+14680,Recent,High Value,Frequent
+14681,Needs Attention,Low Value,Few
+14682,Churned,Very Low Value,Few
+14684,Recent,Average Value,Occasional
+14687,At Risk,Low Value,One-Time
+14688,Recent,High Value,Frequent
+14689,Churned,Very Low Value,One-Time
+14690,Needs Attention,Low Value,Few
+14691,Recent,Average Value,Occasional
+14692,At Risk,Low Value,Occasional
+14693,Churned,Very Low Value,One-Time
+14696,Recent,Average Value,Frequent
+14697,Churned,Very Low Value,Few
+14698,Recent,Average Value,Occasional
+14699,Churned,Very Low Value,One-Time
+14700,Needs Attention,Average Value,Few
+14701,Recent,Average Value,Frequent
+14702,Recent,Average Value,Frequent
+14703,Recent,Low Value,One-Time
+14704,Recent,Average Value,Frequent
+14705,Churned,Very Low Value,One-Time
+14708,Recent,Average Value,Few
+14709,Recent,Average Value,Frequent
+14710,Recent,Low Value,Occasional
+14711,Recent,Average Value,Frequent
+14712,Recent,Low Value,Few
+14713,Recent,Average Value,Frequent
+14714,Recent,Very Low Value,One-Time
+14715,Recent,Low Value,Occasional
+14716,Needs Attention,Low Value,Few
+14719,Recent,Average Value,Occasional
+14720,Recent,Low Value,Few
+14722,At Risk,Very Low Value,One-Time
+14723,Recent,Average Value,Frequent
+14725,Recent,Low Value,One-Time
+14727,Churned,Very Low Value,One-Time
+14729,Churned,Low Value,One-Time
+14730,Recent,Average Value,Frequent
+14731,Needs Attention,Low Value,Few
+14732,Recent,Average Value,Frequent
+14733,Recent,High Value,Frequent
+14735,Recent,High Value,Frequent
+14737,Recent,Average Value,Few
+14738,Needs Attention,Average Value,Frequent
+14739,Recent,Average Value,Frequent
+14740,Churned,Average Value,Few
+14741,Recent,Average Value,Frequent
+14744,Recent,Average Value,Frequent
+14745,At Risk,Average Value,Occasional
+14747,Churned,Low Value,One-Time
+14748,Recent,Average Value,Occasional
+14752,Needs Attention,Low Value,One-Time
+14753,Needs Attention,Low Value,One-Time
+14754,Needs Attention,Low Value,Few
+14755,Recent,High Value,Frequent
+14756,Recent,Low Value,One-Time
+14757,Needs Attention,Low Value,One-Time
+14758,At Risk,Average Value,Occasional
+14759,Recent,Average Value,Few
+14760,Churned,Very Low Value,One-Time
+14761,Needs Attention,Very Low Value,Few
+14762,Churned,Low Value,One-Time
+14764,Needs Attention,Very Low Value,One-Time
+14765,Recent,Very Low Value,Few
+14766,Recent,Average Value,Frequent
+14768,Recent,Very Low Value,Few
+14769,Recent,High Value,Frequent
+14770,Churned,Low Value,Few
+14772,At Risk,Very Low Value,One-Time
+14775,Needs Attention,Average Value,Few
+14776,Needs Attention,Average Value,Frequent
+14778,At Risk,Low Value,Few
+14779,Churned,Low Value,Few
+14780,Needs Attention,Low Value,Few
+14782,Churned,Very Low Value,One-Time
+14784,Recent,Very Low Value,Few
+14785,Recent,Very Low Value,Few
+14788,Recent,Low Value,Few
+14789,Recent,Very Low Value,One-Time
+14790,Recent,Low Value,Occasional
+14792,Needs Attention,Very Low Value,One-Time
+14793,Recent,Very Low Value,One-Time
+14794,Recent,Average Value,Frequent
+14795,At Risk,Very Low Value,One-Time
+14796,Recent,High Value,Frequent
+14798,Needs Attention,Very Low Value,Few
+14799,Needs Attention,Very Low Value,One-Time
+14800,Needs Attention,Average Value,Frequent
+14801,Needs Attention,Very Low Value,One-Time
+14803,At Risk,Low Value,Few
+14804,Recent,Low Value,One-Time
+14805,Recent,Low Value,Occasional
+14806,Needs Attention,Very Low Value,One-Time
+14808,Needs Attention,Average Value,Frequent
+14810,Needs Attention,Average Value,Frequent
+14813,Churned,Very Low Value,Few
+14815,Needs Attention,Low Value,Few
+14816,Churned,Very Low Value,One-Time
+14817,Churned,Average Value,Few
+14818,Needs Attention,Low Value,Few
+14819,Needs Attention,Very Low Value,Few
+14820,Recent,Low Value,Occasional
+14821,Churned,Very Low Value,One-Time
+14823,At Risk,Low Value,Few
+14824,Recent,Average Value,Occasional
+14825,Recent,Average Value,Frequent
+14828,Churned,Average Value,Few
+14829,Recent,Low Value,Occasional
+14830,Needs Attention,Very Low Value,One-Time
+14834,Recent,Average Value,Frequent
+14836,Recent,Very Low Value,Few
+14837,Needs Attention,Average Value,Occasional
+14840,Churned,Very Low Value,One-Time
+14841,Needs Attention,Average Value,Frequent
+14842,Needs Attention,Average Value,Occasional
+14844,Needs Attention,Average Value,Occasional
+14847,At Risk,Low Value,One-Time
+14849,Recent,High Value,Frequent
+14850,Churned,Low Value,One-Time
+14851,Recent,Low Value,Few
+14852,Needs Attention,Average Value,Frequent
+14853,Recent,Low Value,Few
+14854,Needs Attention,Average Value,Frequent
+14855,At Risk,Low Value,Few
+14856,Needs Attention,Average Value,Few
+14857,Needs Attention,Average Value,Few
+14859,Recent,Average Value,Occasional
+14860,Recent,Very Low Value,One-Time
+14861,Needs Attention,Very Low Value,One-Time
+14862,Recent,Low Value,Few
+14863,Recent,Very Low Value,One-Time
+14865,Recent,Very Low Value,Few
+14866,Recent,High Value,Frequent
+14867,Churned,Low Value,Few
+14868,Recent,Average Value,Frequent
+14869,Recent,Low Value,Few
+14870,Churned,Low Value,One-Time
+14871,Recent,Low Value,Occasional
+14873,Churned,Low Value,One-Time
+14875,At Risk,Average Value,Few
+14878,Recent,Average Value,Frequent
+14880,Needs Attention,Low Value,Few
+14881,Recent,Very Low Value,One-Time
+14882,Recent,Low Value,Few
+14883,Recent,Low Value,Frequent
+14885,At Risk,Low Value,One-Time
+14886,Churned,Low Value,One-Time
+14887,Needs Attention,Average Value,One-Time
+14888,Churned,Low Value,One-Time
+14889,Churned,Very Low Value,One-Time
+14890,Churned,Very Low Value,One-Time
+14891,At Risk,Low Value,Few
+14893,Recent,Average Value,Few
+14894,Needs Attention,Low Value,One-Time
+14895,Recent,High Value,Frequent
+14896,Churned,Low Value,Few
+14897,Recent,Average Value,Occasional
+14898,Recent,Average Value,Frequent
+14901,Recent,Average Value,Frequent
+14902,Recent,Low Value,One-Time
+14903,Recent,Average Value,Occasional
+14904,Recent,Average Value,Few
+14905,At Risk,Low Value,Few
+14907,Recent,Average Value,Frequent
+14908,Needs Attention,Very Low Value,One-Time
+14910,Recent,Low Value,Occasional
+14911,Recent,High Value,Frequent
+14912,Recent,Low Value,Few
+14913,Needs Attention,Average Value,Occasional
+14915,Needs Attention,Low Value,Few
+14916,Needs Attention,Average Value,Occasional
+14918,At Risk,Average Value,Few
+14920,Churned,Low Value,Few
+14921,Recent,Average Value,Few
+14923,Needs Attention,Low Value,One-Time
+14924,Churned,Low Value,One-Time
+14929,Needs Attention,Very Low Value,One-Time
+14930,At Risk,Average Value,Few
+14931,Recent,Low Value,Occasional
+14932,Churned,Low Value,One-Time
+14934,Needs Attention,Average Value,Few
+14935,Churned,Average Value,One-Time
+14936,Needs Attention,High Value,Frequent
+14937,Needs Attention,Average Value,Few
+14944,Recent,High Value,Frequent
+14946,Recent,Very Low Value,One-Time
+14947,Needs Attention,Very Low Value,Few
+14948,Recent,Average Value,Frequent
+14950,Recent,Low Value,One-Time
+14951,Needs Attention,Low Value,One-Time
+14952,Needs Attention,High Value,Frequent
+14953,Recent,Very Low Value,One-Time
+14954,Recent,Low Value,One-Time
+14957,Churned,Very Low Value,One-Time
+14958,At Risk,Low Value,Few
+14959,Needs Attention,Low Value,Occasional
+14960,Recent,Very Low Value,Few
+14961,Recent,High Value,Frequent
+14962,Churned,Very Low Value,One-Time
+14963,Recent,Average Value,Occasional
+14964,Churned,Very Low Value,One-Time
+14965,At Risk,Low Value,Few
+14966,Recent,Very Low Value,One-Time
+14967,Needs Attention,Low Value,One-Time
+14968,Recent,Very Low Value,One-Time
+14970,Needs Attention,Average Value,Occasional
+14971,Needs Attention,Average Value,Few
+14972,At Risk,Very Low Value,One-Time
+14973,At Risk,Average Value,Few
+14974,Needs Attention,Very Low Value,One-Time
+14975,Needs Attention,Very Low Value,One-Time
+14976,Needs Attention,Low Value,Frequent
+14978,Needs Attention,Average Value,Occasional
+14981,Churned,Very Low Value,One-Time
+14984,Recent,Very Low Value,Few
+14985,Churned,Very Low Value,Few
+14987,Recent,Low Value,Few
+14988,Churned,Low Value,One-Time
+14995,Needs Attention,Very Low Value,Few
+14997,Needs Attention,Low Value,Few
+14998,At Risk,Low Value,Few
+15000,Needs Attention,Low Value,One-Time
+15002,At Risk,Average Value,Occasional
+15004,At Risk,Average Value,One-Time
+15005,Recent,High Value,Frequent
+15006,Needs Attention,Low Value,One-Time
+15007,At Risk,Very Low Value,One-Time
+15009,Recent,Average Value,Few
+15010,Needs Attention,Low Value,One-Time
+15012,Needs Attention,Low Value,Few
+15014,Needs Attention,Very Low Value,Few
+15016,At Risk,Very Low Value,One-Time
+15017,Needs Attention,Very Low Value,One-Time
+15018,Needs Attention,Low Value,Few
+15019,Churned,Very Low Value,One-Time
+15021,Recent,Average Value,Frequent
+15022,Recent,Low Value,Occasional
+15023,Recent,High Value,Frequent
+15024,Recent,Average Value,Frequent
+15025,Needs Attention,Low Value,One-Time
+15026,Needs Attention,Low Value,Few
+15027,Recent,Average Value,Occasional
+15028,Recent,Low Value,Occasional
+15030,Needs Attention,Low Value,Few
+15031,Recent,Low Value,Occasional
+15032,Churned,Average Value,Few
+15033,Recent,Average Value,Frequent
+15034,Recent,Average Value,Frequent
+15035,Needs Attention,Very Low Value,One-Time
+15036,Needs Attention,Low Value,Few
+15038,Needs Attention,Low Value,Frequent
+15039,Recent,High Value,Frequent
+15041,At Risk,Very Low Value,One-Time
+15042,Churned,Very Low Value,One-Time
+15043,Recent,Low Value,One-Time
+15044,Recent,High Value,Frequent
+15045,At Risk,Low Value,Few
+15046,Recent,High Value,Frequent
+15047,Churned,Low Value,One-Time
+15048,Needs Attention,Low Value,Occasional
+15049,Churned,Very Low Value,One-Time
+15050,Recent,Average Value,Few
+15051,Recent,Average Value,Few
+15052,Churned,Very Low Value,One-Time
+15053,Recent,Low Value,Few
+15054,Recent,Low Value,Few
+15057,Churned,Average Value,Few
+15058,Recent,Average Value,Frequent
+15059,Needs Attention,Average Value,Frequent
+15060,Recent,Low Value,Occasional
+15061,Recent,High Value,Frequent
+15062,Needs Attention,Low Value,Occasional
+15063,Churned,Low Value,One-Time
+15065,Needs Attention,Average Value,Occasional
+15066,Needs Attention,Low Value,One-Time
+15067,Needs Attention,Average Value,Few
+15068,Needs Attention,Low Value,Few
+15069,At Risk,Average Value,One-Time
+15070,Churned,Very Low Value,One-Time
+15071,At Risk,Low Value,Few
+15073,Recent,Average Value,Few
+15074,At Risk,Low Value,One-Time
+15075,Needs Attention,Low Value,One-Time
+15076,At Risk,Low Value,One-Time
+15078,Recent,High Value,Frequent
+15079,Churned,Low Value,Occasional
+15081,Recent,Low Value,Occasional
+15083,Churned,Very Low Value,One-Time
+15087,Churned,Low Value,One-Time
+15088,Recent,Average Value,Few
+15089,Recent,Average Value,Frequent
+15090,Churned,Low Value,One-Time
+15091,Needs Attention,Low Value,One-Time
+15092,Churned,Low Value,Few
+15093,Recent,Average Value,Frequent
+15095,At Risk,Average Value,Occasional
+15096,Needs Attention,Very Low Value,One-Time
+15097,Recent,Very Low Value,One-Time
+15098,Churned,High Value,Few
+15099,Needs Attention,Low Value,One-Time
+15100,Churned,Low Value,Few
+15101,Recent,Low Value,Few
+15103,Recent,Low Value,Few
+15104,Churned,Average Value,Few
+15105,Recent,Average Value,Frequent
+15106,Recent,Average Value,Occasional
+15107,Churned,Low Value,Frequent
+15108,At Risk,Average Value,Few
+15109,Churned,Low Value,One-Time
+15110,Recent,Low Value,Occasional
+15111,Recent,Average Value,Few
+15113,Recent,Average Value,Few
+15114,Recent,Average Value,Frequent
+15115,Recent,Low Value,One-Time
+15116,Recent,Average Value,Occasional
+15117,Recent,Average Value,Occasional
+15118,At Risk,Very Low Value,One-Time
+15119,Churned,Very Low Value,One-Time
+15120,At Risk,Low Value,One-Time
+15121,Needs Attention,Low Value,Few
+15122,At Risk,Average Value,Few
+15123,Recent,Average Value,Few
+15124,Recent,Very Low Value,Few
+15125,Recent,High Value,Frequent
+15127,Needs Attention,Low Value,One-Time
+15128,Needs Attention,Average Value,Occasional
+15129,Needs Attention,Average Value,Frequent
+15130,At Risk,Low Value,One-Time
+15132,Recent,Low Value,Occasional
+15133,At Risk,Low Value,Few
+15134,Recent,Average Value,Frequent
+15135,Churned,Very Low Value,One-Time
+15136,Recent,Average Value,Occasional
+15139,Churned,Very Low Value,Few
+15140,Needs Attention,Average Value,Frequent
+15142,Needs Attention,Low Value,One-Time
+15143,Churned,Very Low Value,One-Time
+15144,Recent,High Value,Frequent
+15145,Recent,Average Value,Occasional
+15146,At Risk,Average Value,Few
+15147,Churned,Low Value,One-Time
+15148,Recent,Low Value,One-Time
+15149,At Risk,Low Value,One-Time
+15150,Recent,High Value,Frequent
+15152,Recent,Average Value,Frequent
+15153,Recent,Low Value,One-Time
+15154,Needs Attention,Very Low Value,One-Time
+15156,Recent,Low Value,Few
+15157,Recent,Average Value,Few
+15158,Needs Attention,Low Value,One-Time
+15159,Recent,High Value,Frequent
+15160,Churned,Very Low Value,One-Time
+15163,Recent,Low Value,Few
+15164,Needs Attention,Low Value,Few
+15165,Churned,Low Value,One-Time
+15167,Churned,Very Low Value,One-Time
+15168,Recent,Very Low Value,One-Time
+15171,Churned,Average Value,One-Time
+15172,Recent,Average Value,Occasional
+15174,Churned,Very Low Value,One-Time
+15175,Needs Attention,Very Low Value,One-Time
+15178,Churned,Very Low Value,One-Time
+15179,Recent,Average Value,Occasional
+15180,Churned,Very Low Value,One-Time
+15181,Needs Attention,Low Value,Few
+15182,At Risk,Low Value,Few
+15184,Recent,Low Value,Few
+15185,Needs Attention,Low Value,One-Time
+15186,Recent,Low Value,Few
+15187,Recent,Average Value,Frequent
+15189,Recent,High Value,Frequent
+15192,At Risk,Average Value,Few
+15193,Needs Attention,Low Value,One-Time
+15194,Recent,High Value,Frequent
+15195,Recent,Average Value,One-Time
+15197,Recent,Average Value,Few
+15198,At Risk,Very Low Value,Few
+15199,Needs Attention,Average Value,Occasional
+15201,Needs Attention,Average Value,Occasional
+15203,Recent,Average Value,Frequent
+15204,Churned,Low Value,One-Time
+15205,Needs Attention,Low Value,Few
+15206,Recent,Low Value,Occasional
+15208,Recent,Low Value,Occasional
+15210,Churned,Low Value,One-Time
+15211,Needs Attention,Low Value,Few
+15212,Churned,Very Low Value,One-Time
+15213,Churned,Low Value,Few
+15214,Recent,Average Value,Frequent
+15215,Needs Attention,Low Value,Few
+15216,Needs Attention,Very Low Value,One-Time
+15218,Recent,High Value,Frequent
+15219,At Risk,Low Value,One-Time
+15220,Needs Attention,Average Value,Frequent
+15221,Churned,Low Value,One-Time
+15222,Churned,Low Value,One-Time
+15223,Churned,Low Value,Few
+15224,Churned,Low Value,Few
+15225,Churned,Low Value,One-Time
+15226,Churned,Very Low Value,One-Time
+15227,Needs Attention,Average Value,Occasional
+15228,Needs Attention,Average Value,Occasional
+15230,Churned,Low Value,Few
+15232,At Risk,Low Value,Few
+15234,Churned,Very Low Value,One-Time
+15235,Churned,Average Value,Frequent
+15236,Churned,Low Value,One-Time
+15237,Recent,Average Value,Occasional
+15238,Recent,Average Value,Few
+15239,Recent,Low Value,Few
+15240,Needs Attention,Average Value,Occasional
+15241,Needs Attention,Average Value,Frequent
+15243,Needs Attention,Low Value,One-Time
+15244,Needs Attention,Low Value,Few
+15245,At Risk,Average Value,Few
+15246,Churned,Low Value,Few
+15247,At Risk,Low Value,One-Time
+15249,Needs Attention,High Value,Frequent
+15251,Recent,High Value,Frequent
+15252,Needs Attention,Low Value,Few
+15253,Recent,Low Value,Occasional
+15254,At Risk,Low Value,One-Time
+15255,Needs Attention,Low Value,One-Time
+15256,At Risk,Very Low Value,One-Time
+15257,Churned,Low Value,One-Time
+15258,At Risk,Low Value,Few
+15260,At Risk,Average Value,Frequent
+15261,At Risk,Very Low Value,One-Time
+15262,Churned,Very Low Value,One-Time
+15263,At Risk,Very Low Value,One-Time
+15264,Needs Attention,Low Value,One-Time
+15265,At Risk,Average Value,Few
+15266,Churned,Very Low Value,One-Time
+15267,Recent,Average Value,Occasional
+15269,Recent,Low Value,One-Time
+15270,Recent,Average Value,Frequent
+15271,Recent,Average Value,Frequent
+15272,Needs Attention,Low Value,Few
+15274,Recent,Low Value,Few
+15275,Needs Attention,Low Value,One-Time
+15276,Needs Attention,Very Low Value,One-Time
+15277,Needs Attention,Very Low Value,One-Time
+15279,Churned,Very Low Value,One-Time
+15280,At Risk,Very Low Value,One-Time
+15281,Needs Attention,Average Value,Frequent
+15286,Needs Attention,Very Low Value,One-Time
+15287,Recent,Low Value,Few
+15288,Needs Attention,Average Value,Occasional
+15289,Recent,Low Value,Few
+15290,Recent,High Value,Frequent
+15291,Recent,Average Value,Frequent
+15292,Churned,Very Low Value,One-Time
+15296,Needs Attention,Average Value,Frequent
+15297,Recent,Low Value,Few
+15298,Recent,Average Value,Frequent
+15299,Needs Attention,Average Value,Frequent
+15300,Needs Attention,Low Value,One-Time
+15301,Needs Attention,High Value,Frequent
+15303,Churned,Low Value,One-Time
+15304,Needs Attention,Low Value,Frequent
+15306,Needs Attention,Average Value,Few
+15307,At Risk,Very Low Value,One-Time
+15308,Churned,Low Value,One-Time
+15311,Recent,High Value,Frequent
+15312,Needs Attention,Low Value,Occasional
+15313,At Risk,Very Low Value,One-Time
+15314,Churned,Low Value,One-Time
+15315,Needs Attention,Low Value,Few
+15316,Churned,Very Low Value,One-Time
+15318,Recent,Low Value,One-Time
+15319,Churned,Very Low Value,One-Time
+15320,Needs Attention,Very Low Value,One-Time
+15321,Needs Attention,Average Value,Few
+15322,Needs Attention,Low Value,One-Time
+15325,At Risk,Very Low Value,One-Time
+15326,Churned,Low Value,One-Time
+15327,Needs Attention,Very Low Value,One-Time
+15329,Needs Attention,Average Value,Few
+15330,Needs Attention,Low Value,Few
+15332,Churned,Average Value,Occasional
+15333,Churned,Average Value,One-Time
+15334,At Risk,Low Value,Few
+15335,Needs Attention,Very Low Value,One-Time
+15339,Needs Attention,Low Value,Few
+15341,Needs Attention,Average Value,One-Time
+15342,At Risk,Low Value,One-Time
+15343,Needs Attention,Low Value,One-Time
+15344,Recent,Low Value,Few
+15345,Needs Attention,Low Value,One-Time
+15346,Churned,Very Low Value,One-Time
+15347,Churned,Very Low Value,One-Time
+15348,Needs Attention,Very Low Value,One-Time
+15349,At Risk,Low Value,Few
+15350,Churned,Very Low Value,One-Time
+15351,Recent,Average Value,Frequent
+15353,Churned,Low Value,Few
+15355,Recent,Very Low Value,Few
+15356,Recent,Average Value,Frequent
+15358,Recent,High Value,Frequent
+15360,Needs Attention,Low Value,One-Time
+15361,Churned,Low Value,One-Time
+15363,Churned,Low Value,One-Time
+15364,At Risk,Low Value,Few
+15365,Recent,Average Value,Frequent
+15366,Needs Attention,Low Value,Few
+15367,Needs Attention,Average Value,Occasional
+15368,Recent,Low Value,One-Time
+15370,Needs Attention,Average Value,Frequent
+15372,At Risk,Average Value,One-Time
+15373,Recent,Average Value,Frequent
+15374,At Risk,Very Low Value,One-Time
+15376,Needs Attention,Average Value,Few
+15379,At Risk,Average Value,Frequent
+15380,Recent,Average Value,Occasional
+15381,Churned,Low Value,Few
+15382,Recent,High Value,Frequent
+15384,At Risk,Low Value,Few
+15385,Needs Attention,Low Value,One-Time
+15386,Churned,Low Value,One-Time
+15388,Churned,Very Low Value,One-Time
+15389,At Risk,Low Value,One-Time
+15392,Recent,Average Value,Occasional
+15393,Recent,Very Low Value,Few
+15394,Recent,Average Value,Occasional
+15395,Churned,Very Low Value,One-Time
+15396,At Risk,Very Low Value,One-Time
+15397,Churned,Very Low Value,One-Time
+15398,Recent,Average Value,Few
+15399,Recent,Low Value,Few
+15400,At Risk,Low Value,Occasional
+15402,At Risk,Low Value,Few
+15405,Churned,Low Value,One-Time
+15406,Recent,Low Value,Few
+15407,Needs Attention,Average Value,Occasional
+15408,Churned,Very Low Value,One-Time
+15410,Needs Attention,Average Value,Frequent
+15411,Recent,Average Value,Occasional
+15412,At Risk,Very Low Value,One-Time
+15414,Recent,Low Value,Few
+15415,Churned,Low Value,One-Time
+15416,Needs Attention,Average Value,Occasional
+15417,Needs Attention,Low Value,One-Time
+15419,Recent,Very Low Value,One-Time
+15421,Needs Attention,Low Value,Occasional
+15422,Churned,Very Low Value,Few
+15423,Needs Attention,Very Low Value,One-Time
+15424,Churned,Low Value,Few
+15426,Recent,Average Value,Occasional
+15427,Needs Attention,Average Value,Few
+15428,Recent,Very Low Value,One-Time
+15429,Recent,Low Value,Few
+15432,Recent,Very Low Value,One-Time
+15433,Churned,Low Value,Few
+15434,Recent,Average Value,Occasional
+15435,Recent,Very Low Value,One-Time
+15436,Recent,Average Value,Few
+15437,Churned,Very Low Value,One-Time
+15438,At Risk,Very Low Value,One-Time
+15440,Needs Attention,Low Value,Few
+15442,Churned,Low Value,One-Time
+15443,Recent,Average Value,Frequent
+15444,Recent,Average Value,Few
+15445,Churned,Very Low Value,One-Time
+15447,Churned,Very Low Value,One-Time
+15448,Churned,Low Value,One-Time
+15449,Recent,Low Value,Few
+15450,Recent,Low Value,One-Time
+15452,Recent,Low Value,Few
+15453,Recent,Average Value,Frequent
+15454,Churned,Very Low Value,One-Time
+15456,Churned,Low Value,Few
+15457,Churned,Very Low Value,One-Time
+15458,Recent,Very Low Value,One-Time
+15460,Churned,Very Low Value,One-Time
+15462,At Risk,Very Low Value,Few
+15463,Recent,Very Low Value,One-Time
+15464,Churned,Average Value,One-Time
+15465,Recent,High Value,Frequent
+15466,Needs Attention,Low Value,One-Time
+15467,Recent,Low Value,Few
+15468,Needs Attention,Low Value,Few
+15469,Needs Attention,Low Value,Few
+15471,Recent,Low Value,One-Time
+15472,At Risk,Low Value,One-Time
+15473,Recent,Average Value,Frequent
+15475,Needs Attention,Low Value,One-Time
+15478,Needs Attention,Average Value,Few
+15480,At Risk,Low Value,One-Time
+15482,Recent,High Value,Frequent
+15483,At Risk,Very Low Value,Occasional
+15484,Recent,Average Value,Occasional
+15485,Recent,Average Value,Few
+15488,At Risk,Very Low Value,One-Time
+15489,Recent,Average Value,Few
+15491,At Risk,Average Value,Frequent
+15492,Recent,Low Value,Few
+15493,Needs Attention,Average Value,Occasional
+15494,Recent,Average Value,Few
+15497,Recent,Average Value,Few
+15498,Recent,High Value,Frequent
+15500,Recent,Average Value,Occasional
+15502,Recent,High Value,Frequent
+15503,Churned,Very Low Value,One-Time
+15504,Needs Attention,Very Low Value,One-Time
+15505,Needs Attention,Average Value,Occasional
+15506,Recent,Low Value,Few
+15507,At Risk,Low Value,One-Time
+15508,Churned,Average Value,Frequent
+15510,Churned,Very Low Value,One-Time
+15511,Recent,Low Value,Occasional
+15512,At Risk,Very Low Value,Few
+15513,Needs Attention,High Value,Frequent
+15514,Recent,Average Value,Frequent
+15516,Needs Attention,Very Low Value,Few
+15517,Churned,Very Low Value,One-Time
+15518,Needs Attention,Average Value,Frequent
+15520,Recent,Low Value,One-Time
+15521,Needs Attention,Average Value,Frequent
+15522,Needs Attention,Low Value,Few
+15523,Needs Attention,Low Value,One-Time
+15524,Recent,Low Value,One-Time
+15525,Recent,Low Value,Few
+15526,Needs Attention,Very Low Value,Few
+15527,Recent,Average Value,Frequent
+15528,Churned,Very Low Value,One-Time
+15529,Recent,Average Value,Frequent
+15530,Recent,Average Value,Occasional
+15531,Recent,Average Value,Few
+15532,Recent,Average Value,Occasional
+15533,Recent,Low Value,Few
+15535,At Risk,Low Value,Occasional
+15537,At Risk,Very Low Value,One-Time
+15539,Recent,Low Value,One-Time
+15540,Recent,Very Low Value,One-Time
+15541,At Risk,Very Low Value,One-Time
+15543,Churned,Very Low Value,One-Time
+15544,Recent,Average Value,Frequent
+15545,Needs Attention,Very Low Value,Few
+15547,Recent,Average Value,Frequent
+15549,Needs Attention,Average Value,Few
+15550,Recent,Low Value,Occasional
+15551,Needs Attention,Low Value,One-Time
+15552,Churned,Very Low Value,One-Time
+15553,Needs Attention,Low Value,One-Time
+15554,Churned,Very Low Value,One-Time
+15555,Recent,Average Value,Frequent
+15556,Recent,Very Low Value,One-Time
+15557,Recent,Low Value,One-Time
+15561,Recent,Low Value,Occasional
+15562,Churned,Very Low Value,One-Time
+15563,Recent,Average Value,Few
+15565,Needs Attention,Very Low Value,Few
+15567,Recent,Very Low Value,One-Time
+15568,Recent,Low Value,Few
+15569,At Risk,Average Value,Occasional
+15570,Recent,Average Value,Frequent
+15571,Recent,Low Value,Occasional
+15572,Recent,Average Value,Frequent
+15573,Needs Attention,Low Value,Few
+15574,At Risk,Low Value,Occasional
+15576,Needs Attention,Low Value,One-Time
+15577,At Risk,Very Low Value,Few
+15578,At Risk,Very Low Value,One-Time
+15579,Needs Attention,Low Value,Few
+15581,At Risk,Low Value,Frequent
+15582,Recent,Low Value,Few
+15584,Recent,Low Value,Occasional
+15585,At Risk,Low Value,One-Time
+15587,Needs Attention,Low Value,Occasional
+15589,Churned,Low Value,Few
+15592,Needs Attention,Low Value,One-Time
+15593,Needs Attention,Very Low Value,One-Time
+15594,Recent,Average Value,Occasional
+15596,At Risk,Average Value,Occasional
+15597,Needs Attention,Low Value,One-Time
+15598,Needs Attention,Very Low Value,One-Time
+15599,Recent,Low Value,Few
+15601,Recent,High Value,Frequent
+15602,Recent,Average Value,Frequent
+15603,Needs Attention,Very Low Value,One-Time
+15604,Needs Attention,Very Low Value,One-Time
+15605,Needs Attention,Average Value,Occasional
+15606,Needs Attention,Average Value,Frequent
+15607,Churned,Very Low Value,One-Time
+15608,Recent,Average Value,Occasional
+15609,Churned,Very Low Value,One-Time
+15610,Needs Attention,Very Low Value,One-Time
+15611,Recent,Average Value,Frequent
+15612,Needs Attention,Very Low Value,Few
+15615,Recent,High Value,Frequent
+15618,Needs Attention,Low Value,Occasional
+15619,Recent,Low Value,One-Time
+15620,Needs Attention,Average Value,Few
+15621,Recent,Average Value,Occasional
+15622,Needs Attention,Average Value,Frequent
+15623,At Risk,Low Value,One-Time
+15624,At Risk,Low Value,Occasional
+15625,At Risk,Average Value,Occasional
+15626,Needs Attention,Low Value,Few
+15628,Recent,Average Value,Frequent
+15630,Needs Attention,Average Value,Few
+15632,Recent,Average Value,Frequent
+15634,Recent,Very Low Value,One-Time
+15636,Needs Attention,Low Value,Few
+15637,Needs Attention,Very Low Value,One-Time
+15639,At Risk,Low Value,One-Time
+15640,Recent,High Value,Frequent
+15641,At Risk,Average Value,Occasional
+15643,Churned,Low Value,Few
+15644,At Risk,Low Value,Occasional
+15645,Recent,Low Value,One-Time
+15646,At Risk,Low Value,Few
+15648,Churned,Low Value,Few
+15649,Churned,Low Value,Few
+15651,Needs Attention,Low Value,Few
+15652,Needs Attention,Low Value,One-Time
+15653,At Risk,Low Value,Few
+15654,Recent,Low Value,Few
+15655,Churned,Low Value,One-Time
+15656,Needs Attention,Low Value,Occasional
+15657,Recent,Very Low Value,One-Time
+15658,Churned,Average Value,Occasional
+15659,Needs Attention,Low Value,One-Time
+15660,Recent,Average Value,Frequent
+15661,Churned,Low Value,Few
+15663,At Risk,Very Low Value,One-Time
+15664,Needs Attention,Low Value,One-Time
+15665,At Risk,Average Value,Few
+15667,Needs Attention,Low Value,One-Time
+15668,Churned,Very Low Value,One-Time
+15669,Needs Attention,Low Value,Occasional
+15670,Churned,Very Low Value,One-Time
+15671,Recent,Average Value,Frequent
+15673,Needs Attention,Average Value,Occasional
+15674,Needs Attention,Average Value,Occasional
+15675,Needs Attention,Low Value,Few
+15676,Recent,Average Value,Few
+15677,Needs Attention,Low Value,One-Time
+15678,Needs Attention,Low Value,One-Time
+15679,Recent,Low Value,Occasional
+15680,Recent,Average Value,Few
+15681,Recent,Average Value,Occasional
+15683,At Risk,Very Low Value,One-Time
+15687,Recent,Average Value,Frequent
+15689,At Risk,Very Low Value,Few
+15690,Recent,Very Low Value,Few
+15691,Churned,Very Low Value,One-Time
+15692,Recent,Very Low Value,One-Time
+15694,Recent,High Value,Frequent
+15695,Churned,Low Value,Few
+15696,Needs Attention,Average Value,Frequent
+15699,Recent,Low Value,One-Time
+15700,At Risk,Low Value,Few
+15701,Recent,Average Value,Occasional
+15703,Churned,Very Low Value,One-Time
+15704,At Risk,Average Value,Occasional
+15705,Churned,Very Low Value,One-Time
+15706,Needs Attention,Average Value,Occasional
+15707,Needs Attention,Low Value,Occasional
+15708,Needs Attention,Average Value,Frequent
+15709,Churned,Very Low Value,One-Time
+15712,Recent,Average Value,Occasional
+15713,At Risk,Low Value,Few
+15714,Recent,Low Value,Few
+15716,At Risk,Average Value,Occasional
+15717,Churned,Very Low Value,One-Time
+15719,Needs Attention,High Value,Frequent
+15720,Recent,Low Value,One-Time
+15721,Recent,Low Value,One-Time
+15722,Needs Attention,Average Value,Occasional
+15723,Churned,Very Low Value,One-Time
+15724,Churned,Very Low Value,Few
+15725,Recent,Low Value,One-Time
+15727,Recent,High Value,Frequent
+15729,Churned,Very Low Value,One-Time
+15730,Needs Attention,Average Value,Few
+15732,Churned,Very Low Value,Few
+15733,Churned,Very Low Value,One-Time
+15734,At Risk,Average Value,Few
+15737,Recent,Average Value,Frequent
+15738,Recent,Average Value,Frequent
+15739,Needs Attention,Low Value,One-Time
+15740,Needs Attention,Very Low Value,One-Time
+15743,Recent,Low Value,Occasional
+15744,Needs Attention,Very Low Value,One-Time
+15745,Recent,Average Value,Occasional
+15746,At Risk,Very Low Value,One-Time
+15747,Recent,Low Value,Few
+15748,Needs Attention,Very Low Value,One-Time
+15749,Churned,High Value,Few
+15750,Recent,Average Value,Frequent
+15752,Needs Attention,Average Value,Frequent
+15753,Churned,Very Low Value,One-Time
+15754,Needs Attention,Low Value,Few
+15755,Recent,Average Value,Frequent
+15756,Needs Attention,Low Value,Occasional
+15757,Needs Attention,Low Value,Few
+15758,Recent,Very Low Value,One-Time
+15759,Churned,Very Low Value,Few
+15762,Needs Attention,Low Value,Few
+15763,Needs Attention,Average Value,Few
+15764,Needs Attention,Average Value,Frequent
+15766,Needs Attention,Low Value,One-Time
+15768,At Risk,Low Value,Few
+15769,Recent,High Value,Frequent
+15773,Recent,Low Value,One-Time
+15774,Needs Attention,Very Low Value,One-Time
+15775,Churned,Very Low Value,One-Time
+15776,At Risk,Very Low Value,One-Time
+15777,Churned,Average Value,Occasional
+15780,Churned,Low Value,Few
+15781,Recent,Low Value,Few
+15782,Recent,Average Value,Few
+15783,Recent,Very Low Value,One-Time
+15785,Needs Attention,Average Value,Occasional
+15786,Needs Attention,Average Value,Few
+15787,Recent,Low Value,Few
+15789,Churned,Low Value,One-Time
+15790,Recent,Very Low Value,One-Time
+15791,Needs Attention,Average Value,Few
+15793,Recent,Low Value,Few
+15795,At Risk,Low Value,One-Time
+15796,Recent,Average Value,Frequent
+15797,At Risk,Average Value,Few
+15799,Needs Attention,Low Value,Few
+15800,At Risk,Low Value,Few
+15801,Needs Attention,Average Value,Few
+15803,Needs Attention,Low Value,One-Time
+15804,Recent,Average Value,Frequent
+15805,Recent,High Value,Frequent
+15806,Needs Attention,Low Value,Few
+15807,Needs Attention,Low Value,Few
+15808,Churned,Average Value,Occasional
+15809,Needs Attention,Low Value,Occasional
+15810,Needs Attention,Average Value,Occasional
+15811,Recent,Average Value,Frequent
+15812,At Risk,Average Value,Occasional
+15813,Churned,Average Value,Few
+15814,Recent,Average Value,Occasional
+15815,Needs Attention,Average Value,Occasional
+15819,Needs Attention,Average Value,Occasional
+15820,Churned,Very Low Value,One-Time
+15821,Needs Attention,Low Value,Few
+15822,Recent,Low Value,Few
+15825,At Risk,Low Value,One-Time
+15826,Needs Attention,Average Value,Few
+15827,Needs Attention,Average Value,Frequent
+15829,At Risk,Low Value,Few
+15830,Needs Attention,Low Value,One-Time
+15831,Needs Attention,Low Value,Few
+15832,Churned,Low Value,One-Time
+15834,Needs Attention,Average Value,Occasional
+15835,Needs Attention,Low Value,Occasional
+15836,Needs Attention,Very Low Value,One-Time
+15837,Needs Attention,Low Value,One-Time
+15838,Recent,High Value,Frequent
+15839,Needs Attention,Average Value,Few
+15840,Needs Attention,Low Value,Few
+15841,Needs Attention,Average Value,Occasional
+15843,Churned,Very Low Value,One-Time
+15844,Needs Attention,Very Low Value,One-Time
+15845,Recent,Average Value,Frequent
+15847,Needs Attention,Low Value,Few
+15850,Recent,Very Low Value,Few
+15852,Churned,Very Low Value,Few
+15853,Needs Attention,Very Low Value,One-Time
+15854,Recent,Average Value,Frequent
+15855,At Risk,Low Value,Occasional
+15856,Recent,High Value,Frequent
+15857,Recent,Very Low Value,One-Time
+15858,Recent,Average Value,Occasional
+15860,Needs Attention,Low Value,Frequent
+15861,Recent,Average Value,Frequent
+15862,Recent,Low Value,Occasional
+15863,Recent,Very Low Value,Few
+15864,Recent,Average Value,Frequent
+15865,Needs Attention,Low Value,Few
+15866,At Risk,Very Low Value,One-Time
+15867,Recent,Average Value,Frequent
+15869,Churned,Very Low Value,Few
+15870,Needs Attention,Low Value,One-Time
+15872,Recent,Low Value,Few
+15874,Needs Attention,Average Value,Frequent
+15877,Recent,Low Value,Few
+15880,Churned,Low Value,One-Time
+15881,Churned,Low Value,Occasional
+15882,Churned,Low Value,Occasional
+15883,Recent,Low Value,Few
+15885,At Risk,Low Value,One-Time
+15886,Needs Attention,Very Low Value,One-Time
+15888,Needs Attention,Very Low Value,One-Time
+15889,At Risk,Low Value,Few
+15891,Churned,Low Value,One-Time
+15894,Churned,Very Low Value,Few
+15895,At Risk,Very Low Value,One-Time
+15897,Churned,Very Low Value,Few
+15898,Recent,Average Value,Occasional
+15899,Churned,Very Low Value,One-Time
+15900,Recent,Low Value,One-Time
+15901,Recent,Low Value,Few
+15903,Recent,High Value,Frequent
+15904,Recent,Very Low Value,One-Time
+15906,Recent,Average Value,Frequent
+15907,Recent,Low Value,Few
+15909,At Risk,Very Low Value,One-Time
+15910,Recent,Average Value,Frequent
+15912,At Risk,Very Low Value,Few
+15916,Recent,Average Value,Frequent
+15917,Churned,Very Low Value,One-Time
+15918,Churned,Low Value,Few
+15919,Recent,Low Value,Few
+15920,At Risk,Very Low Value,Few
+15921,At Risk,Low Value,One-Time
+15922,Churned,Low Value,One-Time
+15923,Churned,Very Low Value,One-Time
+15925,Churned,Very Low Value,One-Time
+15930,Needs Attention,Low Value,One-Time
+15932,Recent,Average Value,Frequent
+15933,Recent,Average Value,Few
+15935,Churned,Very Low Value,One-Time
+15937,Needs Attention,Very Low Value,One-Time
+15938,At Risk,Low Value,Occasional
+15939,Needs Attention,High Value,Frequent
+15940,Churned,Very Low Value,One-Time
+15942,At Risk,Low Value,One-Time
+15944,Churned,Low Value,One-Time
+15945,Churned,Very Low Value,One-Time
+15947,Needs Attention,Average Value,One-Time
+15948,Recent,Low Value,Few
+15949,Recent,Low Value,Few
+15950,Needs Attention,Average Value,Occasional
+15951,Recent,Low Value,Few
+15952,Needs Attention,Low Value,Occasional
+15953,Recent,Average Value,Frequent
+15955,Recent,Average Value,Frequent
+15957,Needs Attention,Low Value,One-Time
+15958,Needs Attention,Very Low Value,One-Time
+15963,Recent,Low Value,Few
+15965,Recent,Low Value,Occasional
+15967,Recent,Low Value,Few
+15969,Recent,Low Value,Few
+15970,Churned,Low Value,One-Time
+15971,Recent,Average Value,Frequent
+15973,Churned,Low Value,One-Time
+15974,Needs Attention,Average Value,Frequent
+15975,Needs Attention,Low Value,One-Time
+15976,At Risk,Low Value,Few
+15977,Recent,Average Value,Few
+15978,Needs Attention,Average Value,One-Time
+15980,Needs Attention,Average Value,Few
+15981,Recent,Average Value,Frequent
+15983,Recent,Average Value,Occasional
+15984,Recent,Average Value,Frequent
+15985,At Risk,Average Value,Few
+15986,Recent,Very Low Value,One-Time
+15987,Recent,Average Value,Frequent
+15988,Recent,Very Low Value,One-Time
+15990,Needs Attention,Low Value,Few
+15992,Recent,Very Low Value,One-Time
+15993,Recent,Average Value,Frequent
+15994,Needs Attention,Low Value,One-Time
+15996,Needs Attention,Average Value,Frequent
+15998,Needs Attention,Average Value,Occasional
+16000,Recent,High Value,Few
+16003,Recent,Average Value,Occasional
+16005,Recent,Low Value,Occasional
+16006,Churned,Very Low Value,One-Time
+16007,Needs Attention,Average Value,Occasional
+16008,Recent,Low Value,Few
+16009,Recent,Low Value,Occasional
+16010,Churned,Low Value,Few
+16011,Recent,Average Value,Frequent
+16012,Needs Attention,Average Value,Few
+16013,Recent,High Value,Frequent
+16014,Needs Attention,Low Value,Few
+16015,Recent,Low Value,Few
+16016,Recent,Average Value,Frequent
+16017,Needs Attention,Very Low Value,One-Time
+16018,Needs Attention,Low Value,Few
+16019,Needs Attention,Average Value,Frequent
+16020,Recent,Low Value,Few
+16022,Churned,Low Value,One-Time
+16023,Needs Attention,Low Value,Few
+16024,Recent,Very Low Value,One-Time
+16025,Recent,Low Value,One-Time
+16026,Needs Attention,Very Low Value,One-Time
+16027,At Risk,Low Value,Frequent
+16029,Needs Attention,High Value,Frequent
+16030,Churned,Low Value,One-Time
+16031,At Risk,Low Value,Few
+16033,Recent,High Value,Frequent
+16034,Churned,Low Value,Few
+16036,Needs Attention,Low Value,Few
+16037,Churned,Low Value,Few
+16038,Recent,Low Value,Few
+16040,Needs Attention,Average Value,Few
+16041,Recent,Average Value,Few
+16042,Recent,Average Value,Occasional
+16043,Needs Attention,Low Value,Occasional
+16045,At Risk,Average Value,Occasional
+16048,Churned,Very Low Value,Few
+16049,Needs Attention,Average Value,Few
+16050,At Risk,Very Low Value,One-Time
+16052,Needs Attention,Low Value,One-Time
+16053,Needs Attention,Average Value,Few
+16054,At Risk,Low Value,One-Time
+16055,Churned,Very Low Value,One-Time
+16056,Needs Attention,Low Value,One-Time
+16057,Recent,Average Value,Frequent
+16059,Needs Attention,Average Value,Frequent
+16062,Recent,Average Value,Occasional
+16063,Churned,Low Value,One-Time
+16065,Churned,Low Value,One-Time
+16066,Recent,Average Value,Occasional
+16070,Recent,Low Value,Few
+16071,Needs Attention,Low Value,One-Time
+16072,Churned,Low Value,One-Time
+16073,Churned,Very Low Value,One-Time
+16076,Recent,Average Value,Frequent
+16078,Churned,Very Low Value,One-Time
+16079,Recent,Average Value,Few
+16080,Needs Attention,Very Low Value,Few
+16081,Needs Attention,Average Value,Occasional
+16083,At Risk,Average Value,Few
+16084,Churned,Low Value,One-Time
+16085,Recent,Low Value,Occasional
+16086,Needs Attention,Average Value,Occasional
+16091,At Risk,Low Value,Few
+16092,At Risk,Low Value,Few
+16093,At Risk,Very Low Value,One-Time
+16094,Recent,Average Value,Occasional
+16096,Churned,Low Value,One-Time
+16097,Churned,Very Low Value,One-Time
+16098,Needs Attention,Average Value,Frequent
+16099,Needs Attention,Low Value,Few
+16101,Needs Attention,Average Value,One-Time
+16102,Needs Attention,Average Value,Few
+16103,Recent,Average Value,Frequent
+16104,Needs Attention,Low Value,One-Time
+16105,Churned,Low Value,One-Time
+16106,Needs Attention,Very Low Value,One-Time
+16107,Recent,Average Value,Frequent
+16108,Needs Attention,Low Value,One-Time
+16109,Churned,Low Value,Few
+16110,Needs Attention,Average Value,Few
+16112,At Risk,Very Low Value,Occasional
+16113,Churned,Very Low Value,One-Time
+16114,At Risk,Very Low Value,One-Time
+16115,Recent,Average Value,Frequent
+16116,Churned,Low Value,One-Time
+16117,Churned,Very Low Value,One-Time
+16119,Recent,Low Value,Few
+16120,Needs Attention,Average Value,Occasional
+16121,Needs Attention,Low Value,Few
+16122,Needs Attention,Low Value,Occasional
+16123,Needs Attention,Low Value,One-Time
+16124,Churned,Very Low Value,One-Time
+16125,Churned,Very Low Value,One-Time
+16126,Recent,High Value,Occasional
+16127,Needs Attention,Low Value,One-Time
+16128,Recent,Average Value,Occasional
+16131,Needs Attention,Average Value,Frequent
+16133,Recent,High Value,Frequent
+16134,Recent,Low Value,Few
+16135,Churned,Low Value,One-Time
+16136,Needs Attention,Low Value,Few
+16139,Recent,Low Value,Few
+16140,Needs Attention,Low Value,Few
+16141,Needs Attention,Low Value,One-Time
+16142,Churned,Low Value,One-Time
+16143,Recent,Average Value,Frequent
+16144,Churned,Very Low Value,One-Time
+16145,Recent,Average Value,Frequent
+16146,At Risk,Low Value,Few
+16147,At Risk,Low Value,One-Time
+16148,Churned,Very Low Value,One-Time
+16149,Recent,Very Low Value,Few
+16150,Needs Attention,Average Value,Occasional
+16152,Churned,Average Value,One-Time
+16153,Needs Attention,Average Value,Occasional
+16156,Recent,Average Value,Frequent
+16157,Recent,Low Value,Few
+16159,Churned,Low Value,One-Time
+16160,Needs Attention,Average Value,Few
+16161,Recent,High Value,Frequent
+16162,Churned,Very Low Value,One-Time
+16163,Churned,Low Value,Few
+16164,Recent,Low Value,Few
+16168,Recent,Average Value,Frequent
+16169,Recent,Average Value,Occasional
+16170,Needs Attention,Average Value,Frequent
+16171,Needs Attention,Very Low Value,One-Time
+16172,At Risk,Average Value,Occasional
+16173,Recent,Average Value,Frequent
+16174,At Risk,Average Value,Few
+16175,At Risk,Average Value,Occasional
+16177,Needs Attention,Low Value,One-Time
+16178,At Risk,Very Low Value,One-Time
+16179,Needs Attention,Very Low Value,One-Time
+16180,At Risk,High Value,Frequent
+16181,Needs Attention,Low Value,One-Time
+16182,Needs Attention,High Value,Occasional
+16183,Needs Attention,Low Value,One-Time
+16184,Needs Attention,Average Value,Frequent
+16185,Recent,Low Value,Few
+16186,Recent,Average Value,Frequent
+16187,Needs Attention,High Value,Frequent
+16188,Needs Attention,Low Value,Occasional
+16189,Recent,Very Low Value,Few
+16190,Needs Attention,Very Low Value,One-Time
+16191,Recent,High Value,Frequent
+16193,Churned,Low Value,One-Time
+16198,Needs Attention,Low Value,One-Time
+16200,Recent,Average Value,Few
+16201,Recent,Average Value,Occasional
+16202,Churned,Low Value,One-Time
+16203,Needs Attention,Low Value,Occasional
+16204,Recent,Low Value,One-Time
+16205,Recent,Low Value,Occasional
+16206,Needs Attention,Low Value,Occasional
+16207,Recent,Low Value,One-Time
+16208,Needs Attention,Low Value,Few
+16209,Needs Attention,Average Value,Occasional
+16210,Recent,High Value,Frequent
+16211,Needs Attention,Low Value,One-Time
+16212,Recent,Low Value,Few
+16213,Needs Attention,Very Low Value,One-Time
+16214,At Risk,Average Value,Few
+16215,Needs Attention,Very Low Value,One-Time
+16216,Churned,Low Value,One-Time
+16217,Churned,Low Value,Few
+16218,Recent,Average Value,Frequent
+16221,Needs Attention,Low Value,Few
+16222,Churned,Low Value,One-Time
+16224,Needs Attention,Average Value,Occasional
+16225,Needs Attention,Average Value,Occasional
+16226,Churned,Very Low Value,Few
+16227,Churned,Low Value,One-Time
+16229,Needs Attention,Average Value,Few
+16230,Churned,Low Value,Few
+16232,Needs Attention,Low Value,Occasional
+16233,Needs Attention,Low Value,Few
+16235,Needs Attention,Low Value,Occasional
+16236,Needs Attention,Low Value,One-Time
+16239,Needs Attention,Low Value,Few
+16240,Recent,Average Value,Few
+16241,Recent,Average Value,Frequent
+16242,Recent,Average Value,Frequent
+16243,Needs Attention,Low Value,Few
+16244,Churned,Average Value,Few
+16245,Recent,Average Value,Few
+16247,At Risk,Very Low Value,One-Time
+16248,Needs Attention,Very Low Value,One-Time
+16249,Needs Attention,Average Value,Occasional
+16250,Churned,Low Value,Few
+16253,Needs Attention,Average Value,Few
+16255,Recent,Average Value,Frequent
+16256,Churned,Low Value,One-Time
+16257,At Risk,Very Low Value,One-Time
+16258,Needs Attention,High Value,Occasional
+16260,Needs Attention,Average Value,One-Time
+16261,Recent,Low Value,Occasional
+16265,Recent,High Value,Frequent
+16266,Needs Attention,Low Value,Frequent
+16268,Needs Attention,Low Value,Few
+16270,Churned,Average Value,One-Time
+16271,Recent,Average Value,Occasional
+16272,At Risk,Low Value,One-Time
+16274,Churned,Low Value,One-Time
+16275,Churned,Low Value,One-Time
+16276,At Risk,Low Value,One-Time
+16278,At Risk,Low Value,One-Time
+16279,Recent,Average Value,Few
+16281,Needs Attention,Average Value,One-Time
+16282,Churned,Very Low Value,One-Time
+16283,Recent,Average Value,Occasional
+16284,Recent,Low Value,Few
+16287,At Risk,Very Low Value,One-Time
+16292,At Risk,Low Value,One-Time
+16293,Recent,Average Value,Frequent
+16295,Recent,Average Value,Occasional
+16297,Churned,Low Value,One-Time
+16298,Recent,Low Value,Few
+16302,At Risk,Very Low Value,One-Time
+16303,Recent,High Value,Few
+16305,At Risk,Low Value,One-Time
+16306,Churned,Low Value,Frequent
+16308,Needs Attention,Average Value,Occasional
+16309,At Risk,Low Value,Few
+16311,Recent,Low Value,Few
+16313,Recent,Very Low Value,Few
+16315,Churned,Very Low Value,One-Time
+16316,Needs Attention,Average Value,Frequent
+16317,At Risk,Average Value,Few
+16318,Needs Attention,Low Value,One-Time
+16319,Churned,Low Value,One-Time
+16320,At Risk,Average Value,Few
+16321,Needs Attention,Low Value,Occasional
+16322,Recent,Low Value,Few
+16323,Churned,Very Low Value,One-Time
+16324,At Risk,Low Value,Few
+16325,Needs Attention,Low Value,Few
+16326,Recent,Average Value,Frequent
+16327,Recent,Average Value,Frequent
+16330,Recent,Very Low Value,Few
+16332,Recent,Average Value,Frequent
+16333,Recent,High Value,Frequent
+16337,Needs Attention,Very Low Value,One-Time
+16338,At Risk,Very Low Value,One-Time
+16339,Churned,Very Low Value,One-Time
+16340,At Risk,Low Value,One-Time
+16341,Recent,Average Value,Occasional
+16342,Needs Attention,Low Value,Occasional
+16343,Recent,Low Value,Few
+16344,At Risk,Very Low Value,One-Time
+16345,Needs Attention,Low Value,One-Time
+16347,Recent,Low Value,Few
+16348,Needs Attention,Average Value,Frequent
+16349,Churned,Very Low Value,One-Time
+16350,Recent,Average Value,Occasional
+16351,Churned,Very Low Value,One-Time
+16352,Recent,Low Value,Few
+16353,Recent,High Value,Frequent
+16354,Needs Attention,Low Value,Few
+16356,Churned,Very Low Value,Few
+16357,Needs Attention,Low Value,Few
+16358,Recent,Average Value,Occasional
+16359,Recent,Average Value,Frequent
+16360,Recent,Average Value,Frequent
+16361,Recent,Low Value,Occasional
+16362,Needs Attention,Low Value,Occasional
+16363,Needs Attention,Very Low Value,One-Time
+16364,Recent,Low Value,Few
+16365,Recent,Average Value,Frequent
+16366,Recent,Low Value,One-Time
+16367,Needs Attention,Low Value,Few
+16368,Recent,Low Value,Few
+16369,Recent,Average Value,Few
+16370,Needs Attention,Average Value,Occasional
+16372,Needs Attention,Low Value,Few
+16374,Needs Attention,Low Value,Few
+16376,Recent,Low Value,Few
+16377,Churned,Low Value,One-Time
+16378,Churned,Low Value,Few
+16379,Recent,Average Value,Occasional
+16380,Needs Attention,Average Value,One-Time
+16383,Needs Attention,Low Value,Few
+16384,Needs Attention,Low Value,Few
+16385,Needs Attention,Low Value,Few
+16386,Recent,Low Value,Few
+16387,Churned,Very Low Value,One-Time
+16389,Needs Attention,Average Value,Occasional
+16392,Churned,Very Low Value,One-Time
+16393,Recent,Average Value,Frequent
+16394,Needs Attention,Average Value,Occasional
+16395,Needs Attention,Average Value,Occasional
+16398,At Risk,Average Value,Few
+16399,Recent,Low Value,Few
+16400,At Risk,Low Value,One-Time
+16401,Recent,Average Value,Frequent
+16402,Churned,Very Low Value,Few
+16403,Churned,Very Low Value,One-Time
+16404,Needs Attention,Low Value,One-Time
+16405,Churned,Very Low Value,Few
+16406,Recent,Very Low Value,One-Time
+16407,Recent,Average Value,Frequent
+16409,Needs Attention,Average Value,Occasional
+16411,Recent,Very Low Value,Few
+16412,Needs Attention,Very Low Value,One-Time
+16413,Needs Attention,Very Low Value,One-Time
+16414,Recent,Very Low Value,Few
+16415,Needs Attention,Very Low Value,One-Time
+16416,Recent,Average Value,Few
+16418,Needs Attention,Low Value,Few
+16419,At Risk,Low Value,Frequent
+16422,Recent,High Value,Frequent
+16423,Recent,Low Value,One-Time
+16424,Churned,Very Low Value,One-Time
+16425,Churned,Low Value,One-Time
+16426,Recent,Average Value,Frequent
+16427,Churned,Very Low Value,Few
+16429,At Risk,Very Low Value,One-Time
+16430,Needs Attention,Low Value,One-Time
+16431,Churned,Low Value,Few
+16432,Needs Attention,Very Low Value,One-Time
+16433,Recent,Very Low Value,One-Time
+16434,Recent,Average Value,Frequent
+16438,Recent,Low Value,Occasional
+16440,Recent,Average Value,Occasional
+16441,Needs Attention,Low Value,Few
+16442,Recent,Low Value,Few
+16444,Needs Attention,Low Value,Occasional
+16445,Needs Attention,Very Low Value,One-Time
+16446,Recent,High Value,Few
+16447,At Risk,Very Low Value,One-Time
+16448,Churned,Very Low Value,One-Time
+16449,Churned,Low Value,Few
+16450,At Risk,Low Value,One-Time
+16451,Needs Attention,Very Low Value,One-Time
+16454,Needs Attention,Very Low Value,One-Time
+16455,Needs Attention,Average Value,Frequent
+16456,At Risk,Average Value,Occasional
+16457,Churned,Very Low Value,One-Time
+16458,Recent,Average Value,Frequent
+16460,Recent,Low Value,Few
+16461,At Risk,Very Low Value,One-Time
+16462,Needs Attention,Very Low Value,Few
+16463,Recent,Average Value,Occasional
+16464,Recent,Average Value,Few
+16466,Needs Attention,Average Value,Frequent
+16468,Needs Attention,Very Low Value,One-Time
+16469,Recent,Low Value,Occasional
+16470,Needs Attention,Low Value,Occasional
+16471,Churned,Very Low Value,One-Time
+16473,At Risk,Low Value,Few
+16474,Recent,Average Value,Frequent
+16475,Needs Attention,Low Value,Occasional
+16477,Needs Attention,Average Value,Frequent
+16478,Recent,Low Value,Few
+16479,Recent,Low Value,Few
+16480,Needs Attention,Low Value,One-Time
+16482,Recent,Very Low Value,One-Time
+16483,Churned,Very Low Value,One-Time
+16484,At Risk,Low Value,Few
+16485,Needs Attention,Low Value,One-Time
+16488,Needs Attention,Low Value,Few
+16491,Needs Attention,Low Value,One-Time
+16493,Needs Attention,Average Value,Occasional
+16494,Churned,Low Value,One-Time
+16495,Recent,Low Value,Few
+16496,Recent,Average Value,Few
+16497,Needs Attention,Average Value,Frequent
+16498,At Risk,Very Low Value,Few
+16499,Churned,Low Value,Few
+16500,Recent,Low Value,Frequent
+16503,At Risk,Average Value,Occasional
+16504,Recent,Low Value,One-Time
+16505,Needs Attention,Low Value,One-Time
+16506,Recent,Very Low Value,Few
+16509,Churned,Low Value,One-Time
+16510,Churned,Very Low Value,One-Time
+16511,Recent,Low Value,Few
+16513,Recent,Low Value,Occasional
+16515,Needs Attention,Average Value,Occasional
+16516,Recent,Very Low Value,One-Time
+16517,Churned,Very Low Value,One-Time
+16518,Needs Attention,Low Value,Few
+16519,Recent,Very Low Value,Few
+16520,Churned,Average Value,Few
+16523,Recent,High Value,Frequent
+16525,Recent,High Value,Frequent
+16526,At Risk,Very Low Value,One-Time
+16527,Needs Attention,Very Low Value,One-Time
+16528,Recent,Very Low Value,One-Time
+16529,Churned,Low Value,One-Time
+16531,Recent,Average Value,Frequent
+16532,Recent,High Value,Few
+16533,Recent,Average Value,Few
+16535,Recent,Low Value,One-Time
+16536,At Risk,Low Value,One-Time
+16539,Recent,Average Value,Occasional
+16542,Needs Attention,Very Low Value,One-Time
+16545,At Risk,Low Value,One-Time
+16546,Churned,Low Value,Few
+16549,Recent,Average Value,Frequent
+16550,At Risk,Average Value,Occasional
+16551,At Risk,Low Value,Few
+16552,Churned,Low Value,Few
+16553,At Risk,High Value,Frequent
+16554,Needs Attention,Low Value,Few
+16555,Needs Attention,Very Low Value,Few
+16556,Needs Attention,Average Value,Frequent
+16557,Recent,Very Low Value,Few
+16558,Recent,High Value,Frequent
+16560,Recent,Low Value,Few
+16561,Recent,Low Value,Few
+16563,Needs Attention,Average Value,One-Time
+16565,Churned,Very Low Value,One-Time
+16566,Recent,Low Value,Occasional
+16567,Churned,Low Value,Few
+16569,Recent,Very Low Value,One-Time
+16570,Recent,Average Value,Frequent
+16571,Recent,Average Value,Few
+16572,At Risk,Average Value,Few
+16573,Needs Attention,Low Value,Few
+16574,Needs Attention,Low Value,One-Time
+16581,Churned,Very Low Value,One-Time
+16582,At Risk,Low Value,One-Time
+16583,Churned,Very Low Value,One-Time
+16584,Needs Attention,Low Value,Few
+16586,Churned,Low Value,One-Time
+16587,Churned,Very Low Value,One-Time
+16589,Needs Attention,Low Value,Few
+16591,Needs Attention,Very Low Value,One-Time
+16592,Recent,Average Value,Frequent
+16593,Needs Attention,Low Value,Few
+16594,Needs Attention,Very Low Value,One-Time
+16595,Needs Attention,Low Value,One-Time
+16596,Recent,Very Low Value,Few
+16597,Recent,Very Low Value,One-Time
+16598,Churned,Very Low Value,One-Time
+16600,Recent,Low Value,Frequent
+16601,Needs Attention,Very Low Value,One-Time
+16602,Needs Attention,Low Value,One-Time
+16603,Needs Attention,Low Value,Few
+16607,Recent,Average Value,Frequent
+16609,Recent,High Value,Frequent
+16610,Churned,Very Low Value,One-Time
+16611,Churned,Very Low Value,One-Time
+16612,Needs Attention,Average Value,Occasional
+16613,Needs Attention,Low Value,One-Time
+16614,Churned,Low Value,One-Time
+16616,Recent,Low Value,Few
+16617,Churned,Very Low Value,One-Time
+16618,Recent,Average Value,Occasional
+16619,Churned,Very Low Value,One-Time
+16620,Recent,Very Low Value,Few
+16621,Needs Attention,Low Value,Occasional
+16623,Churned,Very Low Value,One-Time
+16624,Needs Attention,Low Value,Few
+16625,Churned,Low Value,One-Time
+16626,Recent,Average Value,Frequent
+16627,Needs Attention,Low Value,One-Time
+16628,Recent,Average Value,Occasional
+16629,Needs Attention,Low Value,Few
+16633,Recent,Average Value,Frequent
+16634,Churned,Very Low Value,Few
+16637,Needs Attention,Average Value,Occasional
+16638,Recent,Average Value,Frequent
+16639,Recent,Average Value,Few
+16641,At Risk,Very Low Value,One-Time
+16642,Recent,Low Value,Few
+16643,Churned,Low Value,One-Time
+16644,At Risk,Low Value,Few
+16647,At Risk,Very Low Value,Few
+16648,Needs Attention,Very Low Value,One-Time
+16650,Needs Attention,Low Value,One-Time
+16652,Needs Attention,High Value,Frequent
+16653,Recent,Average Value,Few
+16654,At Risk,Low Value,Occasional
+16655,Recent,Average Value,Frequent
+16656,Recent,High Value,Frequent
+16657,Recent,Low Value,Occasional
+16658,Churned,Very Low Value,One-Time
+16659,Churned,Very Low Value,One-Time
+16660,Recent,Average Value,Occasional
+16665,Churned,Very Low Value,One-Time
+16666,Recent,Very Low Value,One-Time
+16667,Needs Attention,Low Value,Few
+16668,Recent,Low Value,Frequent
+16669,Recent,Average Value,Few
+16670,Recent,Average Value,Frequent
+16671,Recent,Average Value,Few
+16672,Recent,High Value,Frequent
+16674,Needs Attention,Low Value,Few
+16676,Needs Attention,Average Value,Occasional
+16678,Recent,Average Value,Frequent
+16679,Churned,Very Low Value,One-Time
+16680,Needs Attention,Very Low Value,One-Time
+16681,Needs Attention,Average Value,Frequent
+16682,Recent,Average Value,Occasional
+16684,Recent,High Value,Frequent
+16685,Needs Attention,Low Value,Few
+16686,Needs Attention,Average Value,Frequent
+16688,Recent,Average Value,Occasional
+16689,Needs Attention,Low Value,Few
+16690,Needs Attention,Very Low Value,Few
+16692,Churned,Average Value,Few
+16693,Needs Attention,Low Value,Few
+16696,At Risk,Low Value,Occasional
+16697,Churned,Very Low Value,One-Time
+16698,Churned,Average Value,Few
+16700,Recent,High Value,Frequent
+16701,Recent,High Value,Frequent
+16705,Recent,High Value,Frequent
+16706,Needs Attention,Low Value,Few
+16708,Needs Attention,Low Value,One-Time
+16709,Needs Attention,Average Value,Occasional
+16710,Recent,Average Value,Frequent
+16711,Recent,Average Value,Occasional
+16712,Recent,Average Value,Frequent
+16713,Recent,High Value,Frequent
+16714,Churned,Average Value,Few
+16715,Needs Attention,Low Value,One-Time
+16716,Churned,Low Value,Few
+16717,Recent,Average Value,Frequent
+16718,Churned,Low Value,One-Time
+16719,Recent,Average Value,Frequent
+16720,Recent,Very Low Value,One-Time
+16721,Churned,Very Low Value,One-Time
+16722,Recent,Average Value,Frequent
+16723,Needs Attention,Low Value,Few
+16725,Churned,Low Value,Frequent
+16726,Recent,Average Value,Occasional
+16727,Churned,Very Low Value,One-Time
+16728,Needs Attention,Average Value,Occasional
+16729,Needs Attention,High Value,Frequent
+16730,Needs Attention,Low Value,Few
+16732,Needs Attention,Low Value,One-Time
+16734,Needs Attention,Low Value,Few
+16735,Needs Attention,Average Value,Occasional
+16737,Needs Attention,Low Value,One-Time
+16738,Churned,Very Low Value,One-Time
+16739,At Risk,Low Value,One-Time
+16743,Recent,Average Value,Frequent
+16744,Recent,Average Value,Frequent
+16745,Needs Attention,High Value,Frequent
+16746,Recent,High Value,Frequent
+16747,Needs Attention,Low Value,Few
+16748,Recent,Average Value,Occasional
+16750,Needs Attention,Low Value,Occasional
+16751,Recent,Average Value,One-Time
+16752,Churned,Very Low Value,One-Time
+16753,Needs Attention,Very Low Value,One-Time
+16754,Churned,Average Value,One-Time
+16755,At Risk,Average Value,Few
+16756,Churned,Very Low Value,One-Time
+16757,Churned,Very Low Value,One-Time
+16758,Needs Attention,Low Value,One-Time
+16759,Recent,Low Value,Few
+16761,At Risk,Low Value,One-Time
+16762,Recent,Average Value,Few
+16763,Churned,Low Value,One-Time
+16764,Recent,Average Value,Frequent
+16765,Churned,Very Low Value,One-Time
+16766,Churned,Average Value,Few
+16767,Recent,High Value,Frequent
+16768,Needs Attention,Low Value,Few
+16769,Churned,Low Value,One-Time
+16770,Needs Attention,Low Value,Occasional
+16771,Needs Attention,Average Value,Occasional
+16773,Needs Attention,Very Low Value,One-Time
+16774,Needs Attention,Low Value,Occasional
+16775,Recent,Average Value,Frequent
+16776,Needs Attention,Low Value,One-Time
+16777,Needs Attention,Very Low Value,Few
+16778,Needs Attention,Very Low Value,Few
+16779,Recent,High Value,Frequent
+16780,At Risk,Low Value,Few
+16781,Churned,Low Value,One-Time
+16782,Recent,Average Value,Frequent
+16784,Recent,Very Low Value,One-Time
+16788,At Risk,Low Value,Few
+16789,Recent,Very Low Value,One-Time
+16790,Recent,Average Value,Frequent
+16791,Recent,Average Value,Frequent
+16792,Churned,Very Low Value,Few
+16793,Needs Attention,Very Low Value,One-Time
+16794,Recent,Average Value,Frequent
+16795,Churned,Low Value,One-Time
+16796,Needs Attention,Low Value,One-Time
+16800,Recent,Average Value,One-Time
+16801,At Risk,Average Value,Occasional
+16803,Needs Attention,Low Value,One-Time
+16804,Recent,Low Value,Few
+16805,At Risk,Low Value,Few
+16806,At Risk,Low Value,Occasional
+16807,At Risk,Average Value,Few
+16808,At Risk,Very Low Value,Few
+16809,Recent,Low Value,Occasional
+16810,Churned,Low Value,One-Time
+16811,Recent,Low Value,Few
+16812,Churned,Low Value,One-Time
+16813,Recent,Average Value,Frequent
+16814,Recent,High Value,Frequent
+16816,At Risk,Low Value,Occasional
+16817,Recent,Average Value,Frequent
+16818,Recent,Average Value,Frequent
+16820,At Risk,Low Value,One-Time
+16823,Churned,Low Value,One-Time
+16824,Recent,Low Value,Few
+16825,Needs Attention,Low Value,Few
+16826,Needs Attention,Low Value,One-Time
+16828,At Risk,Very Low Value,One-Time
+16829,At Risk,Very Low Value,One-Time
+16830,Needs Attention,Low Value,One-Time
+16832,Churned,Very Low Value,Few
+16833,Recent,Average Value,Occasional
+16834,Churned,Low Value,One-Time
+16835,At Risk,Very Low Value,Few
+16836,Needs Attention,Very Low Value,Few
+16837,Recent,Average Value,Frequent
+16838,Churned,Low Value,Few
+16839,Recent,High Value,Frequent
+16841,Needs Attention,Average Value,Frequent
+16842,At Risk,Average Value,Few
+16843,Needs Attention,High Value,Frequent
+16846,Needs Attention,Very Low Value,One-Time
+16847,Needs Attention,Very Low Value,One-Time
+16848,Needs Attention,Very Low Value,One-Time
+16849,Churned,Very Low Value,One-Time
+16850,Churned,Low Value,One-Time
+16851,Recent,Low Value,Few
+16852,Recent,Very Low Value,Few
+16855,Recent,Low Value,Few
+16856,Recent,Very Low Value,One-Time
+16858,Churned,Low Value,One-Time
+16859,At Risk,Low Value,Few
+16861,Needs Attention,Very Low Value,Few
+16863,Recent,Low Value,Few
+16866,At Risk,Very Low Value,Few
+16869,Recent,Low Value,Occasional
+16871,Recent,Average Value,Frequent
+16872,Needs Attention,Low Value,Few
+16873,Recent,High Value,Frequent
+16875,Needs Attention,Average Value,Occasional
+16877,Recent,Low Value,Frequent
+16878,Needs Attention,Very Low Value,One-Time
+16880,Recent,Average Value,Frequent
+16881,Needs Attention,Low Value,One-Time
+16882,Needs Attention,Low Value,Few
+16883,Churned,Very Low Value,Few
+16884,Needs Attention,Low Value,Few
+16885,Recent,Low Value,Few
+16887,Needs Attention,Very Low Value,One-Time
+16889,Churned,Average Value,Few
+16891,Recent,Low Value,Occasional
+16892,Recent,Low Value,Occasional
+16893,Churned,Very Low Value,One-Time
+16895,Needs Attention,Very Low Value,One-Time
+16897,Churned,Very Low Value,Few
+16898,Recent,Low Value,Few
+16899,Recent,Average Value,Frequent
+16900,Recent,Low Value,Few
+16902,At Risk,Average Value,One-Time
+16903,Recent,Low Value,One-Time
+16904,Recent,Average Value,Frequent
+16905,Recent,Average Value,Frequent
+16906,Needs Attention,Low Value,Occasional
+16907,Recent,Low Value,Occasional
+16909,Needs Attention,Low Value,One-Time
+16910,Recent,Average Value,Frequent
+16912,Recent,Average Value,Frequent
+16913,Churned,Very Low Value,One-Time
+16914,Needs Attention,Very Low Value,One-Time
+16915,Recent,Low Value,Frequent
+16916,Recent,Low Value,Few
+16917,Churned,Low Value,One-Time
+16918,Needs Attention,Average Value,Frequent
+16919,At Risk,Average Value,Frequent
+16921,Needs Attention,Very Low Value,One-Time
+16923,Recent,High Value,Frequent
+16924,Recent,Low Value,Few
+16926,Churned,Very Low Value,One-Time
+16927,At Risk,Low Value,Few
+16928,Needs Attention,Average Value,Frequent
+16929,Recent,Average Value,Frequent
+16930,Recent,Low Value,Few
+16931,Recent,Average Value,Frequent
+16932,Needs Attention,Very Low Value,One-Time
+16933,Recent,Low Value,Few
+16934,Needs Attention,Low Value,Few
+16936,Recent,Very Low Value,One-Time
+16938,Recent,Average Value,Occasional
+16940,Needs Attention,Average Value,Few
+16942,Recent,Average Value,Frequent
+16943,Churned,Low Value,Few
+16945,Recent,Average Value,Frequent
+16947,Churned,Low Value,One-Time
+16948,At Risk,Low Value,Few
+16949,Recent,Average Value,Frequent
+16950,Needs Attention,Average Value,Few
+16951,At Risk,Average Value,Few
+16952,At Risk,Very Low Value,Few
+16953,Recent,Very Low Value,One-Time
+16954,Recent,Average Value,Frequent
+16955,Churned,Low Value,Occasional
+16956,Recent,Low Value,One-Time
+16957,Churned,Low Value,Few
+16959,Needs Attention,Very Low Value,One-Time
+16960,Needs Attention,Low Value,Few
+16961,At Risk,Very Low Value,One-Time
+16963,Churned,Very Low Value,One-Time
+16965,Churned,Very Low Value,One-Time
+16966,Recent,Average Value,Frequent
+16967,Churned,Low Value,One-Time
+16968,Recent,Low Value,Few
+16969,Needs Attention,Low Value,Few
+16971,Needs Attention,Low Value,One-Time
+16976,Churned,Very Low Value,One-Time
+16978,Needs Attention,Low Value,One-Time
+16979,Recent,Average Value,Frequent
+16980,Churned,Average Value,Few
+16982,Needs Attention,Low Value,One-Time
+16983,Recent,Average Value,Frequent
+16984,Needs Attention,Average Value,Few
+16985,Recent,High Value,Frequent
+16986,Recent,Average Value,Few
+16987,Recent,Average Value,Frequent
+16988,Recent,Very Low Value,One-Time
+16989,Recent,Average Value,Frequent
+16990,Churned,Very Low Value,One-Time
+16992,Recent,Average Value,Occasional
+16996,Recent,Average Value,Frequent
+16997,Churned,Low Value,Few
+16998,At Risk,Very Low Value,Occasional
+16999,Recent,Low Value,Few
+17001,Recent,Average Value,Frequent
+17002,Needs Attention,Average Value,Few
+17004,Needs Attention,Average Value,Few
+17006,Recent,Low Value,Occasional
+17007,Needs Attention,Low Value,Frequent
+17010,Recent,Very Low Value,One-Time
+17011,Recent,Very Low Value,One-Time
+17014,Recent,Low Value,Few
+17015,Recent,Average Value,Few
+17017,Recent,High Value,Frequent
+17018,Needs Attention,Low Value,Few
+17019,Recent,Average Value,Occasional
+17022,Recent,Very Low Value,One-Time
+17024,Needs Attention,Very Low Value,Few
+17025,Needs Attention,Low Value,Few
+17026,Churned,Very Low Value,Few
+17027,Needs Attention,Low Value,Frequent
+17029,At Risk,Low Value,Few
+17030,Needs Attention,Very Low Value,One-Time
+17031,Recent,Low Value,Few
+17033,Needs Attention,Average Value,Few
+17034,Recent,Low Value,Few
+17035,Churned,Low Value,Few
+17037,Needs Attention,Average Value,One-Time
+17038,Recent,Very Low Value,One-Time
+17040,At Risk,Low Value,One-Time
+17041,Recent,Average Value,Few
+17042,Recent,Average Value,Occasional
+17043,Needs Attention,Average Value,Occasional
+17044,Recent,Low Value,One-Time
+17045,At Risk,Low Value,Few
+17046,At Risk,Low Value,One-Time
+17047,Needs Attention,Average Value,Few
+17048,At Risk,Low Value,Few
+17049,Recent,High Value,Frequent
+17050,At Risk,Average Value,Frequent
+17051,Churned,Very Low Value,One-Time
+17052,Recent,Low Value,One-Time
+17053,At Risk,Low Value,One-Time
+17054,Recent,Average Value,Occasional
+17058,Needs Attention,Average Value,Few
+17059,Recent,Average Value,Occasional
+17060,Churned,Very Low Value,One-Time
+17061,Needs Attention,High Value,Frequent
+17062,Churned,Low Value,Occasional
+17063,Recent,Average Value,Frequent
+17064,Needs Attention,Low Value,Few
+17068,Recent,Average Value,Frequent
+17069,Recent,Average Value,Frequent
+17070,At Risk,Low Value,One-Time
+17071,Recent,Average Value,Frequent
+17073,Recent,Average Value,Occasional
+17075,Recent,Low Value,Occasional
+17076,Needs Attention,Low Value,Few
+17078,Needs Attention,Low Value,Few
+17079,Needs Attention,Very Low Value,One-Time
+17080,Recent,Very Low Value,Few
+17081,Recent,Very Low Value,Few
+17082,Needs Attention,Average Value,Few
+17083,At Risk,Average Value,Few
+17084,Needs Attention,Average Value,Few
+17085,At Risk,Average Value,Occasional
+17086,Recent,Average Value,Frequent
+17088,Recent,Average Value,Occasional
+17090,Recent,Average Value,Frequent
+17091,Recent,Average Value,Frequent
+17092,Needs Attention,Average Value,Occasional
+17094,Churned,Low Value,One-Time
+17095,Recent,Average Value,Few
+17096,Recent,Average Value,Occasional
+17097,Recent,Low Value,Frequent
+17100,Recent,Low Value,Few
+17101,Recent,Average Value,Occasional
+17102,Churned,Very Low Value,One-Time
+17105,At Risk,Low Value,Few
+17107,Needs Attention,High Value,Frequent
+17109,Recent,Low Value,Frequent
+17110,At Risk,Very Low Value,One-Time
+17111,Needs Attention,Very Low Value,One-Time
+17114,Recent,Low Value,Frequent
+17115,Recent,Low Value,Few
+17117,Churned,Very Low Value,One-Time
+17118,Churned,Very Low Value,One-Time
+17119,Recent,Low Value,Few
+17120,Churned,Low Value,One-Time
+17122,At Risk,Very Low Value,One-Time
+17123,At Risk,Low Value,One-Time
+17124,Churned,Very Low Value,One-Time
+17125,Needs Attention,Very Low Value,One-Time
+17126,At Risk,Average Value,Occasional
+17128,Churned,Very Low Value,One-Time
+17131,Recent,Average Value,Occasional
+17133,Recent,Average Value,Frequent
+17134,At Risk,Low Value,Few
+17135,Recent,Average Value,Frequent
+17138,Churned,Low Value,One-Time
+17139,Recent,High Value,Frequent
+17140,Churned,Low Value,One-Time
+17142,Churned,Low Value,One-Time
+17144,Recent,Low Value,Few
+17146,At Risk,Low Value,Few
+17147,Recent,Average Value,Occasional
+17148,Needs Attention,Very Low Value,One-Time
+17152,Churned,Average Value,Few
+17153,Recent,Very Low Value,One-Time
+17154,Needs Attention,Low Value,One-Time
+17155,Recent,Very Low Value,Few
+17157,Recent,Low Value,Few
+17158,Needs Attention,Average Value,Few
+17159,Recent,Average Value,Few
+17160,Recent,Average Value,Frequent
+17162,Recent,Average Value,Frequent
+17163,Recent,Very Low Value,Few
+17164,Needs Attention,Average Value,Frequent
+17165,Churned,Very Low Value,One-Time
+17166,Needs Attention,Very Low Value,Few
+17169,Needs Attention,Low Value,Few
+17171,Churned,Very Low Value,One-Time
+17172,Needs Attention,Low Value,One-Time
+17173,Recent,Average Value,Frequent
+17174,Churned,Very Low Value,One-Time
+17175,Needs Attention,Average Value,Occasional
+17176,Churned,Low Value,One-Time
+17179,At Risk,Low Value,Few
+17180,Needs Attention,Low Value,Occasional
+17181,Needs Attention,Very Low Value,Few
+17183,Recent,Average Value,Frequent
+17186,Needs Attention,Very Low Value,Few
+17187,Churned,Very Low Value,One-Time
+17188,Recent,Average Value,Frequent
+17189,At Risk,Low Value,Few
+17190,Needs Attention,Low Value,Few
+17191,Recent,Average Value,Frequent
+17193,Needs Attention,Average Value,Frequent
+17194,Churned,Very Low Value,One-Time
+17197,Recent,Average Value,One-Time
+17198,Recent,Low Value,Few
+17201,Needs Attention,Low Value,One-Time
+17203,Needs Attention,Average Value,Frequent
+17204,At Risk,Average Value,Occasional
+17205,Needs Attention,Low Value,One-Time
+17206,Needs Attention,Very Low Value,One-Time
+17211,Recent,Average Value,Frequent
+17212,Churned,Very Low Value,One-Time
+17213,Needs Attention,Average Value,Frequent
+17214,Needs Attention,Average Value,Frequent
+17217,Churned,Very Low Value,One-Time
+17218,Recent,Average Value,Frequent
+17219,Needs Attention,Very Low Value,One-Time
+17220,Recent,Average Value,Frequent
+17221,Recent,Low Value,Few
+17222,Needs Attention,Low Value,One-Time
+17223,Churned,Low Value,Few
+17226,Churned,Low Value,One-Time
+17227,Recent,Low Value,Frequent
+17228,Recent,Average Value,Frequent
+17229,At Risk,Low Value,Few
+17230,Churned,Average Value,Frequent
+17231,Recent,Average Value,Frequent
+17232,Recent,Low Value,Few
+17233,Needs Attention,Very Low Value,One-Time
+17234,Churned,Very Low Value,One-Time
+17235,Recent,Low Value,Few
+17236,Recent,Low Value,Frequent
+17237,Recent,Low Value,Few
+17238,Recent,Average Value,Frequent
+17239,Churned,Low Value,One-Time
+17242,At Risk,Average Value,Few
+17243,Recent,High Value,Frequent
+17244,Needs Attention,Low Value,One-Time
+17245,Churned,Very Low Value,One-Time
+17247,Recent,Very Low Value,One-Time
+17248,At Risk,Low Value,One-Time
+17250,Recent,Low Value,Few
+17251,Churned,Very Low Value,One-Time
+17252,At Risk,Low Value,Few
+17253,Recent,Very Low Value,One-Time
+17254,Recent,Very Low Value,Few
+17255,Needs Attention,Very Low Value,Few
+17256,At Risk,Very Low Value,Few
+17259,At Risk,Low Value,Few
+17262,Needs Attention,Average Value,Occasional
+17263,Churned,Very Low Value,One-Time
+17265,At Risk,Low Value,Few
+17266,Recent,Low Value,Few
+17267,At Risk,Low Value,Few
+17268,At Risk,Low Value,Occasional
+17272,Needs Attention,Average Value,Occasional
+17274,Needs Attention,Very Low Value,One-Time
+17277,Churned,Average Value,Few
+17278,Churned,Very Low Value,One-Time
+17279,Needs Attention,Very Low Value,One-Time
+17282,At Risk,Average Value,Few
+17284,Needs Attention,Average Value,Frequent
+17286,Recent,Very Low Value,One-Time
+17287,Recent,Average Value,Frequent
+17288,Recent,Average Value,Frequent
+17289,Needs Attention,Low Value,Few
+17290,Recent,Low Value,Few
+17291,Churned,Low Value,One-Time
+17293,Recent,Average Value,Frequent
+17295,Recent,Low Value,Few
+17297,Recent,Very Low Value,One-Time
+17298,At Risk,Low Value,Few
+17299,Recent,Low Value,Occasional
+17301,Recent,Very Low Value,One-Time
+17302,Recent,Average Value,Occasional
+17303,Churned,Very Low Value,One-Time
+17306,Recent,High Value,Frequent
+17309,At Risk,Very Low Value,One-Time
+17311,Needs Attention,Average Value,Few
+17312,At Risk,Low Value,Few
+17313,Recent,Average Value,One-Time
+17314,Recent,Average Value,Frequent
+17315,Recent,High Value,Frequent
+17317,Needs Attention,Average Value,Few
+17320,At Risk,Average Value,Few
+17321,Recent,Low Value,Few
+17323,Recent,Low Value,Frequent
+17324,Recent,Low Value,Occasional
+17325,Churned,Very Low Value,One-Time
+17329,Recent,Low Value,Few
+17330,Recent,Low Value,Few
+17331,At Risk,Very Low Value,One-Time
+17333,Needs Attention,Low Value,One-Time
+17334,Churned,Low Value,Few
+17337,At Risk,Average Value,Occasional
+17338,Recent,High Value,Frequent
+17339,At Risk,Very Low Value,Few
+17340,Recent,High Value,Frequent
+17341,At Risk,Low Value,Few
+17343,Churned,Very Low Value,One-Time
+17344,Needs Attention,Very Low Value,One-Time
+17345,Recent,Low Value,Occasional
+17346,Recent,Average Value,Frequent
+17347,Needs Attention,Very Low Value,One-Time
+17348,Recent,Average Value,Occasional
+17349,At Risk,Very Low Value,One-Time
+17350,Recent,Average Value,Occasional
+17351,Needs Attention,Low Value,Few
+17353,At Risk,Average Value,Few
+17354,Needs Attention,Average Value,One-Time
+17356,Churned,Very Low Value,One-Time
+17357,Recent,Low Value,Few
+17358,Churned,Low Value,Few
+17359,Recent,Very Low Value,One-Time
+17360,Recent,Low Value,Few
+17361,Needs Attention,Low Value,Few
+17362,Churned,Low Value,Few
+17364,Recent,Average Value,Frequent
+17365,Recent,Average Value,Frequent
+17367,Churned,Very Low Value,One-Time
+17368,Recent,Average Value,Frequent
+17370,Needs Attention,Low Value,Occasional
+17371,Recent,Low Value,Few
+17372,Needs Attention,Average Value,Frequent
+17373,Needs Attention,Low Value,Occasional
+17374,Churned,Low Value,Few
+17375,Churned,Low Value,Few
+17376,Needs Attention,Very Low Value,Few
+17377,Recent,Average Value,Frequent
+17379,Recent,Low Value,One-Time
+17381,Recent,High Value,Frequent
+17382,Needs Attention,Very Low Value,One-Time
+17383,Recent,Very Low Value,One-Time
+17384,Recent,Low Value,Few
+17385,Recent,Very Low Value,One-Time
+17386,Recent,Average Value,Frequent
+17387,Recent,Low Value,Few
+17388,Needs Attention,Average Value,Occasional
+17389,Recent,High Value,Frequent
+17391,At Risk,Low Value,Few
+17392,Churned,Low Value,Few
+17394,Churned,Very Low Value,One-Time
+17396,Needs Attention,High Value,Frequent
+17397,Recent,Low Value,Few
+17398,At Risk,Low Value,Few
+17400,At Risk,Average Value,Occasional
+17402,Recent,Average Value,Frequent
+17403,Needs Attention,Very Low Value,One-Time
+17404,Recent,High Value,Frequent
+17405,Recent,Average Value,Few
+17406,Churned,Average Value,Few
+17408,At Risk,Very Low Value,One-Time
+17409,Churned,Low Value,Few
+17410,Recent,Average Value,Occasional
+17411,Recent,Low Value,Few
+17412,Recent,Average Value,Frequent
+17414,Needs Attention,Low Value,Few
+17415,Needs Attention,Low Value,One-Time
+17416,Recent,High Value,Frequent
+17418,Needs Attention,Low Value,Few
+17419,Recent,Average Value,Frequent
+17420,Needs Attention,Low Value,Few
+17422,Recent,Average Value,Frequent
+17423,Needs Attention,Low Value,Few
+17425,Recent,Low Value,Few
+17426,Recent,High Value,Frequent
+17427,Needs Attention,Very Low Value,One-Time
+17428,Recent,High Value,Frequent
+17429,At Risk,Low Value,Few
+17430,Needs Attention,Very Low Value,Few
+17431,Churned,Low Value,One-Time
+17432,Recent,Low Value,Few
+17433,Needs Attention,Low Value,One-Time
+17434,Recent,Average Value,Frequent
+17436,Recent,Very Low Value,Few
+17438,Churned,Low Value,One-Time
+17440,At Risk,Very Low Value,Few
+17442,Needs Attention,Average Value,Frequent
+17443,Churned,Low Value,One-Time
+17444,At Risk,Average Value,Few
+17446,At Risk,Very Low Value,Few
+17447,Needs Attention,Low Value,Few
+17449,Recent,Average Value,Frequent
+17450,Recent,High Value,Frequent
+17451,Recent,Average Value,Frequent
+17453,Recent,Low Value,Few
+17454,Churned,Low Value,Occasional
+17455,Churned,Very Low Value,One-Time
+17456,Churned,Very Low Value,One-Time
+17457,At Risk,Average Value,Occasional
+17458,Recent,Low Value,One-Time
+17459,Needs Attention,Low Value,Few
+17460,At Risk,Low Value,Frequent
+17461,Recent,Low Value,Few
+17462,Needs Attention,Low Value,Few
+17463,Recent,Average Value,Occasional
+17464,At Risk,Very Low Value,One-Time
+17466,Recent,Low Value,Few
+17468,Recent,Very Low Value,Few
+17469,Recent,Average Value,Occasional
+17470,Needs Attention,Average Value,Occasional
+17472,Churned,Low Value,Few
+17475,Needs Attention,Very Low Value,One-Time
+17480,Needs Attention,Low Value,One-Time
+17481,Recent,Average Value,Occasional
+17483,Needs Attention,Low Value,Few
+17486,Churned,Low Value,One-Time
+17489,Needs Attention,Low Value,Few
+17490,Recent,Average Value,Frequent
+17491,Recent,Average Value,Frequent
+17492,Churned,Low Value,One-Time
+17495,Recent,Low Value,Few
+17496,Churned,Very Low Value,One-Time
+17498,Needs Attention,Very Low Value,One-Time
+17499,Churned,Low Value,One-Time
+17500,Recent,Average Value,Few
+17501,Churned,Very Low Value,Few
+17502,Recent,Low Value,Occasional
+17503,Recent,Low Value,Few
+17504,Churned,Average Value,Frequent
+17505,At Risk,Average Value,Few
+17506,Needs Attention,Low Value,One-Time
+17507,Churned,Low Value,Few
+17508,Churned,Low Value,One-Time
+17509,Needs Attention,High Value,Frequent
+17510,Recent,Low Value,One-Time
+17511,Recent,High Value,Frequent
+17512,Recent,Average Value,Frequent
+17513,Needs Attention,Low Value,One-Time
+17514,At Risk,Very Low Value,One-Time
+17515,Recent,Low Value,Occasional
+17516,Recent,Low Value,Occasional
+17517,Churned,Very Low Value,One-Time
+17519,Recent,Average Value,Frequent
+17520,Needs Attention,Low Value,One-Time
+17521,Recent,Low Value,Few
+17522,Recent,Average Value,Occasional
+17523,Recent,Low Value,Occasional
+17524,Churned,Very Low Value,One-Time
+17525,Churned,Low Value,One-Time
+17526,Recent,Average Value,Occasional
+17527,Needs Attention,Low Value,Occasional
+17528,Recent,Average Value,Frequent
+17530,Recent,Average Value,Frequent
+17531,Churned,Very Low Value,One-Time
+17534,Needs Attention,Very Low Value,One-Time
+17535,Churned,Very Low Value,One-Time
+17536,At Risk,Very Low Value,One-Time
+17537,Recent,Low Value,Few
+17538,Recent,Very Low Value,One-Time
+17540,Recent,Low Value,Few
+17542,Churned,Very Low Value,One-Time
+17545,Needs Attention,Low Value,Few
+17548,Churned,Very Low Value,One-Time
+17549,Recent,Very Low Value,Few
+17550,Churned,Very Low Value,Few
+17551,Churned,Low Value,One-Time
+17552,Needs Attention,Low Value,Occasional
+17553,At Risk,Average Value,One-Time
+17554,Recent,Average Value,Occasional
+17555,Recent,Low Value,Few
+17556,Churned,Very Low Value,One-Time
+17557,Recent,Low Value,Few
+17560,At Risk,Low Value,Occasional
+17561,Recent,Very Low Value,One-Time
+17562,Recent,Average Value,Frequent
+17564,Recent,Low Value,Few
+17566,Recent,Low Value,Few
+17567,Recent,Average Value,Frequent
+17569,Churned,Low Value,One-Time
+17571,Needs Attention,Average Value,Occasional
+17572,Needs Attention,Very Low Value,Occasional
+17573,Recent,Low Value,Few
+17574,Churned,Very Low Value,One-Time
+17576,Recent,Average Value,Frequent
+17578,Churned,Very Low Value,One-Time
+17579,Recent,Low Value,Few
+17580,Churned,Very Low Value,Few
+17581,Recent,High Value,Frequent
+17582,Churned,Very Low Value,One-Time
+17584,Recent,Average Value,Few
+17585,At Risk,Average Value,Occasional
+17588,At Risk,Average Value,Few
+17589,Needs Attention,Average Value,Occasional
+17590,Recent,Average Value,Few
+17591,Needs Attention,Average Value,Frequent
+17593,Recent,Average Value,Occasional
+17594,Needs Attention,Low Value,Few
+17595,Recent,Low Value,Few
+17596,Recent,Average Value,Frequent
+17597,Churned,Average Value,One-Time
+17600,Recent,Very Low Value,One-Time
+17601,Churned,Very Low Value,One-Time
+17602,Recent,High Value,Frequent
+17603,Needs Attention,Low Value,One-Time
+17604,Churned,Low Value,Few
+17608,Needs Attention,Very Low Value,Few
+17609,Needs Attention,Average Value,Occasional
+17611,Recent,Average Value,Frequent
+17612,Needs Attention,Average Value,Frequent
+17613,Recent,Average Value,Frequent
+17614,Needs Attention,Low Value,One-Time
+17615,At Risk,Low Value,Few
+17616,At Risk,Low Value,Few
+17618,Recent,Low Value,Few
+17619,Churned,Very Low Value,One-Time
+17620,Needs Attention,Very Low Value,One-Time
+17621,Recent,Average Value,Few
+17623,Needs Attention,Low Value,One-Time
+17624,Recent,Low Value,Few
+17625,Recent,Average Value,Occasional
+17628,Needs Attention,Very Low Value,One-Time
+17629,Recent,Average Value,Frequent
+17630,At Risk,Low Value,Few
+17631,Recent,Low Value,Few
+17633,Recent,Average Value,Occasional
+17634,Needs Attention,Average Value,Frequent
+17636,Recent,Very Low Value,One-Time
+17637,Recent,Low Value,Few
+17639,Churned,Very Low Value,One-Time
+17640,Needs Attention,Low Value,One-Time
+17642,At Risk,Low Value,Few
+17643,Churned,Very Low Value,One-Time
+17644,Recent,Average Value,Frequent
+17646,Churned,Average Value,Few
+17647,Needs Attention,Very Low Value,One-Time
+17648,Needs Attention,Average Value,Occasional
+17649,At Risk,Low Value,One-Time
+17650,Recent,Very Low Value,One-Time
+17651,Recent,Average Value,Frequent
+17652,Recent,Average Value,Frequent
+17653,Needs Attention,Average Value,Occasional
+17654,Churned,Very Low Value,One-Time
+17655,Recent,Average Value,Frequent
+17656,Needs Attention,Average Value,Occasional
+17658,Recent,Low Value,Few
+17659,Recent,Average Value,Frequent
+17660,At Risk,Very Low Value,One-Time
+17663,Recent,Average Value,Frequent
+17664,Recent,Low Value,Few
+17666,Recent,Low Value,Few
+17667,Needs Attention,Average Value,Occasional
+17668,Recent,Low Value,Few
+17669,Needs Attention,Average Value,Frequent
+17670,Churned,Very Low Value,One-Time
+17671,Recent,Average Value,Occasional
+17672,Needs Attention,Average Value,Few
+17673,Recent,Average Value,Frequent
+17674,Needs Attention,Low Value,Few
+17675,Recent,High Value,Frequent
+17676,Recent,Average Value,Frequent
+17677,Recent,High Value,Frequent
+17678,Churned,Very Low Value,One-Time
+17679,Needs Attention,Average Value,Few
+17680,Recent,Very Low Value,One-Time
+17682,Recent,Average Value,Frequent
+17684,Needs Attention,Very Low Value,One-Time
+17685,Recent,Average Value,Frequent
+17686,Recent,High Value,Frequent
+17690,Recent,Average Value,Frequent
+17691,Churned,Very Low Value,Few
+17692,At Risk,Low Value,Occasional
+17693,At Risk,Very Low Value,One-Time
+17694,At Risk,Very Low Value,One-Time
+17695,At Risk,Low Value,Few
+17696,Needs Attention,Average Value,Frequent
+17697,Churned,Low Value,One-Time
+17698,Churned,Very Low Value,One-Time
+17700,Recent,Average Value,Occasional
+17701,Churned,Low Value,One-Time
+17702,Recent,Average Value,Occasional
+17703,Needs Attention,Low Value,Few
+17704,At Risk,Low Value,Few
+17705,Recent,Average Value,Frequent
+17706,Recent,High Value,Frequent
+17707,Churned,Very Low Value,Few
+17708,Churned,Very Low Value,Few
+17709,At Risk,Very Low Value,One-Time
+17711,Recent,Low Value,Few
+17712,Needs Attention,Low Value,One-Time
+17714,Churned,Very Low Value,One-Time
+17715,Churned,Low Value,One-Time
+17716,Recent,High Value,Frequent
+17718,Churned,Very Low Value,One-Time
+17719,Needs Attention,High Value,Frequent
+17720,Recent,Average Value,Occasional
+17722,At Risk,Average Value,Occasional
+17723,At Risk,Average Value,Frequent
+17724,Needs Attention,Average Value,Few
+17725,Recent,Average Value,Frequent
+17727,Recent,Average Value,One-Time
+17728,Recent,Average Value,Few
+17730,Recent,High Value,Frequent
+17731,Needs Attention,Average Value,Occasional
+17732,Churned,Low Value,One-Time
+17733,Needs Attention,Low Value,Few
+17734,Needs Attention,Low Value,Few
+17735,Recent,High Value,Frequent
+17736,Recent,Low Value,Few
+17737,Recent,Very Low Value,Few
+17738,Recent,Average Value,Occasional
+17739,Recent,Average Value,Frequent
+17742,At Risk,Low Value,Few
+17744,Recent,Average Value,Frequent
+17746,Churned,Very Low Value,One-Time
+17747,At Risk,Very Low Value,One-Time
+17749,At Risk,Low Value,Few
+17750,Recent,Average Value,Frequent
+17752,Churned,Very Low Value,One-Time
+17754,Recent,Average Value,Occasional
+17757,Recent,High Value,Frequent
+17758,Recent,Average Value,Frequent
+17759,Recent,Low Value,Few
+17760,Recent,Very Low Value,Few
+17761,Needs Attention,Low Value,One-Time
+17763,Churned,Very Low Value,One-Time
+17764,Needs Attention,Low Value,Few
+17765,At Risk,Low Value,Few
+17767,Recent,Very Low Value,One-Time
+17768,Recent,Average Value,Few
+17769,Recent,Average Value,Frequent
+17770,Churned,Average Value,Occasional
+17771,Needs Attention,Very Low Value,Few
+17772,Recent,Very Low Value,Few
+17774,At Risk,Average Value,Occasional
+17775,Churned,Very Low Value,One-Time
+17777,Recent,Low Value,Few
+17779,Recent,Low Value,Few
+17781,At Risk,Very Low Value,Few
+17783,Needs Attention,Very Low Value,Few
+17785,Needs Attention,Very Low Value,One-Time
+17786,Needs Attention,Very Low Value,Few
+17787,At Risk,Average Value,Occasional
+17788,Needs Attention,Average Value,Few
+17789,Churned,Very Low Value,One-Time
+17790,Recent,Average Value,Frequent
+17791,Recent,Very Low Value,One-Time
+17793,Recent,Low Value,One-Time
+17795,At Risk,Low Value,Few
+17796,Needs Attention,Low Value,Occasional
+17797,Recent,Low Value,Few
+17799,Recent,Average Value,Frequent
+17800,Needs Attention,Average Value,Frequent
+17802,Needs Attention,Average Value,Few
+17805,Needs Attention,Low Value,One-Time
+17806,Recent,Low Value,One-Time
+17809,Recent,High Value,Frequent
+17811,Recent,High Value,Frequent
+17812,Recent,Low Value,Occasional
+17813,Recent,Average Value,Occasional
+17816,Needs Attention,Very Low Value,Occasional
+17817,Recent,Low Value,Few
+17819,Needs Attention,Average Value,Frequent
+17824,Needs Attention,Very Low Value,One-Time
+17827,Recent,Average Value,Occasional
+17828,Recent,Average Value,Occasional
+17829,Churned,Low Value,One-Time
+17830,Recent,Low Value,Few
+17831,Needs Attention,Very Low Value,One-Time
+17832,Needs Attention,Very Low Value,One-Time
+17835,Recent,Low Value,Few
+17836,Needs Attention,Very Low Value,One-Time
+17837,Needs Attention,Average Value,Frequent
+17838,Recent,Average Value,Occasional
+17839,Needs Attention,Low Value,One-Time
+17841,Recent,High Value,Frequent
+17843,Churned,Very Low Value,One-Time
+17844,At Risk,Very Low Value,One-Time
+17848,Needs Attention,Low Value,Frequent
+17849,Churned,Low Value,Occasional
+17850,Churned,High Value,Frequent
+17852,Recent,Very Low Value,Few
+17854,Churned,Low Value,Few
+17855,Churned,Very Low Value,One-Time
+17856,Recent,Average Value,Occasional
+17857,Recent,High Value,Frequent
+17858,Recent,High Value,Frequent
+17859,Churned,Very Low Value,One-Time
+17860,Churned,Very Low Value,One-Time
+17861,Recent,Average Value,Frequent
+17862,Churned,Low Value,One-Time
+17863,Needs Attention,Average Value,Frequent
+17864,Recent,Low Value,Few
+17865,Recent,High Value,Frequent
+17866,At Risk,Low Value,One-Time
+17867,Recent,Average Value,Frequent
+17869,At Risk,Low Value,Occasional
+17870,Recent,Average Value,Frequent
+17871,Churned,Very Low Value,One-Time
+17873,Needs Attention,Average Value,Occasional
+17874,Churned,Low Value,Frequent
+17877,At Risk,Very Low Value,One-Time
+17878,Needs Attention,Low Value,One-Time
+17879,At Risk,Very Low Value,One-Time
+17880,Churned,Low Value,One-Time
+17881,Churned,Very Low Value,One-Time
+17883,Recent,Low Value,Occasional
+17884,Recent,Low Value,Occasional
+17885,Recent,Very Low Value,One-Time
+17886,Needs Attention,Low Value,Few
+17887,At Risk,Very Low Value,One-Time
+17888,Recent,Low Value,Frequent
+17889,Churned,Very Low Value,Few
+17890,Churned,Low Value,Few
+17891,At Risk,Very Low Value,One-Time
+17892,Needs Attention,Very Low Value,Few
+17893,Churned,Very Low Value,One-Time
+17894,Needs Attention,Average Value,Frequent
+17895,Needs Attention,Very Low Value,One-Time
+17896,Recent,Very Low Value,One-Time
+17897,At Risk,Low Value,Few
+17898,Needs Attention,Very Low Value,Few
+17899,At Risk,Very Low Value,One-Time
+17900,Churned,Very Low Value,Few
+17901,Recent,Very Low Value,One-Time
+17904,Recent,Very Low Value,One-Time
+17905,Needs Attention,Low Value,Occasional
+17906,Churned,Very Low Value,One-Time
+17908,Churned,Very Low Value,One-Time
+17911,Recent,Low Value,One-Time
+17912,Churned,Low Value,Occasional
+17913,Needs Attention,Low Value,Few
+17914,Recent,Low Value,One-Time
+17917,Needs Attention,Low Value,Few
+17919,Needs Attention,Average Value,One-Time
+17920,Recent,Average Value,Frequent
+17921,Needs Attention,Low Value,Occasional
+17923,Churned,Very Low Value,One-Time
+17924,Recent,Average Value,Frequent
+17925,Churned,Very Low Value,One-Time
+17926,At Risk,Low Value,Few
+17928,Needs Attention,Very Low Value,Few
+17929,Recent,Low Value,Occasional
+17930,Needs Attention,Average Value,Occasional
+17931,At Risk,Low Value,Few
+17932,Recent,Average Value,Few
+17934,Needs Attention,Low Value,Few
+17935,At Risk,Very Low Value,Few
+17936,Recent,Low Value,One-Time
+17937,Recent,Average Value,Frequent
+17939,At Risk,Very Low Value,One-Time
+17940,Needs Attention,Average Value,Frequent
+17941,At Risk,Low Value,One-Time
+17942,Recent,Very Low Value,One-Time
+17946,Churned,Very Low Value,Few
+17947,Needs Attention,Very Low Value,One-Time
+17948,At Risk,Low Value,One-Time
+17949,Recent,High Value,Frequent
+17950,Needs Attention,Low Value,Few
+17951,Needs Attention,Average Value,Few
+17954,Recent,Average Value,Frequent
+17955,Churned,Low Value,Occasional
+17956,Churned,Very Low Value,One-Time
+17957,Needs Attention,Very Low Value,One-Time
+17958,At Risk,Low Value,One-Time
+17960,At Risk,Very Low Value,One-Time
+17961,Recent,Average Value,Frequent
+17962,At Risk,Very Low Value,One-Time
+17964,Needs Attention,Low Value,Few
+17965,Needs Attention,Average Value,Frequent
+17966,Needs Attention,Average Value,Occasional
+17967,Churned,Very Low Value,One-Time
+17968,Churned,Very Low Value,One-Time
+17969,At Risk,Very Low Value,Few
+17970,Churned,Low Value,One-Time
+17972,Churned,Very Low Value,One-Time
+17973,Needs Attention,Low Value,One-Time
+17974,Recent,Low Value,Few
+17975,Recent,Average Value,Frequent
+17976,Churned,Low Value,One-Time
+17977,Recent,Very Low Value,One-Time
+17978,Churned,Low Value,One-Time
+17979,Needs Attention,Low Value,Occasional
+17980,At Risk,Low Value,Few
+17984,At Risk,Very Low Value,One-Time
+17985,Recent,Low Value,One-Time
+17986,Needs Attention,Very Low Value,One-Time
+17987,Churned,Very Low Value,One-Time
+17988,Recent,Very Low Value,Frequent
+17990,Churned,Low Value,Few
+17991,Churned,Very Low Value,Few
+17994,At Risk,Low Value,Occasional
+17995,Churned,Very Low Value,One-Time
+17997,Needs Attention,Average Value,Frequent
+17999,Needs Attention,Low Value,Few
+18001,Recent,Low Value,Few
+18004,Churned,Very Low Value,One-Time
+18005,Recent,Very Low Value,Few
+18006,Recent,Low Value,One-Time
+18008,Needs Attention,Average Value,Frequent
+18009,Churned,Very Low Value,One-Time
+18010,Churned,Very Low Value,One-Time
+18011,Churned,Very Low Value,One-Time
+18013,At Risk,Very Low Value,Few
+18014,Recent,Very Low Value,One-Time
+18015,Recent,Very Low Value,One-Time
+18016,Needs Attention,Average Value,Occasional
+18017,Needs Attention,Low Value,Few
+18018,At Risk,Very Low Value,Few
+18019,Needs Attention,Very Low Value,One-Time
+18022,Needs Attention,Low Value,One-Time
+18024,At Risk,Low Value,Few
+18027,At Risk,Very Low Value,One-Time
+18030,Recent,Very Low Value,Few
+18032,Churned,Very Low Value,One-Time
+18033,Needs Attention,Very Low Value,One-Time
+18034,Recent,Low Value,Few
+18035,Needs Attention,Low Value,Few
+18036,Needs Attention,Low Value,Few
+18037,At Risk,Very Low Value,Frequent
+18040,Recent,Low Value,Few
+18041,Recent,Average Value,Frequent
+18042,Needs Attention,Very Low Value,One-Time
+18043,Recent,Low Value,Few
+18044,Recent,Average Value,Frequent
+18045,Needs Attention,Very Low Value,One-Time
+18048,Churned,Very Low Value,Few
+18050,Churned,Very Low Value,One-Time
+18053,Needs Attention,Low Value,One-Time
+18055,Recent,High Value,Frequent
+18056,Churned,Low Value,One-Time
+18058,Recent,Very Low Value,One-Time
+18059,Recent,Low Value,Few
+18061,Recent,Average Value,Frequent
+18062,At Risk,Low Value,Few
+18064,At Risk,Low Value,Few
+18065,Recent,Average Value,Frequent
+18066,Needs Attention,Low Value,One-Time
+18067,Needs Attention,Low Value,One-Time
+18068,Churned,Very Low Value,One-Time
+18069,Recent,Average Value,Occasional
+18071,Churned,Low Value,Few
+18072,Churned,Very Low Value,One-Time
+18073,At Risk,Average Value,Frequent
+18074,Churned,Low Value,One-Time
+18075,Recent,Average Value,Frequent
+18077,Recent,Average Value,Frequent
+18078,Churned,Low Value,Few
+18079,Needs Attention,Average Value,Occasional
+18080,Recent,Average Value,Few
+18081,Needs Attention,Low Value,Few
+18082,Recent,Low Value,One-Time
+18084,Recent,Very Low Value,One-Time
+18085,Churned,Low Value,Few
+18086,Churned,Very Low Value,One-Time
+18087,Churned,Average Value,One-Time
+18088,Needs Attention,Very Low Value,One-Time
+18092,Recent,High Value,Frequent
+18093,At Risk,Average Value,Occasional
+18094,Needs Attention,Average Value,Frequent
+18095,Churned,Low Value,Few
+18096,Recent,Low Value,Few
+18097,Recent,Average Value,Frequent
+18099,At Risk,Very Low Value,One-Time
+18101,Recent,Very Low Value,Few
+18102,Recent,High Value,Frequent
+18104,Needs Attention,Low Value,One-Time
+18105,Needs Attention,Very Low Value,One-Time
+18106,Churned,Low Value,One-Time
+18108,Churned,Very Low Value,One-Time
+18109,Recent,High Value,Frequent
+18110,Recent,Very Low Value,One-Time
+18112,Recent,Low Value,Few
+18113,Churned,Very Low Value,One-Time
+18114,Churned,Very Low Value,One-Time
+18116,Needs Attention,Average Value,Frequent
+18117,Recent,Low Value,One-Time
+18118,Recent,High Value,Frequent
+18119,Churned,Very Low Value,One-Time
+18120,Churned,Very Low Value,One-Time
+18121,At Risk,Low Value,Few
+18122,Recent,Average Value,Frequent
+18123,Recent,Low Value,Few
+18125,Recent,Average Value,Occasional
+18126,Needs Attention,Very Low Value,One-Time
+18127,Recent,Low Value,Few
+18129,Churned,Very Low Value,One-Time
+18130,Recent,Average Value,Few
+18133,Churned,Low Value,One-Time
+18135,Recent,Low Value,Occasional
+18136,Needs Attention,Low Value,Few
+18138,Churned,Very Low Value,One-Time
+18139,Recent,High Value,Frequent
+18142,At Risk,Average Value,Few
+18143,At Risk,Average Value,Few
+18144,Recent,Average Value,Frequent
+18145,Recent,Average Value,Occasional
+18146,At Risk,Very Low Value,Few
+18147,Needs Attention,Very Low Value,Few
+18149,Needs Attention,Low Value,Few
+18150,Needs Attention,Low Value,Few
+18151,At Risk,Low Value,Few
+18154,Recent,Low Value,Few
+18155,Needs Attention,Low Value,Few
+18156,Recent,Low Value,Few
+18158,Recent,Low Value,Few
+18159,Churned,Low Value,One-Time
+18160,Needs Attention,Low Value,Few
+18161,Recent,Average Value,Occasional
+18164,Needs Attention,Low Value,One-Time
+18165,At Risk,Low Value,One-Time
+18167,Recent,Average Value,Few
+18168,At Risk,Average Value,Frequent
+18169,Needs Attention,Very Low Value,One-Time
+18170,Needs Attention,Low Value,Few
+18171,Needs Attention,Average Value,Occasional
+18172,Recent,High Value,Frequent
+18173,Needs Attention,Average Value,Occasional
+18174,Recent,Very Low Value,One-Time
+18176,Churned,Low Value,One-Time
+18177,Recent,Average Value,Frequent
+18178,At Risk,Average Value,Occasional
+18179,Recent,Average Value,Frequent
+18180,Recent,Average Value,Frequent
+18181,Recent,Low Value,One-Time
+18183,Churned,Low Value,Few
+18184,Recent,Very Low Value,One-Time
+18185,Churned,Low Value,One-Time
+18188,Recent,Average Value,Few
+18189,Needs Attention,Average Value,Few
+18190,Churned,Very Low Value,Few
+18191,Churned,Very Low Value,One-Time
+18192,Needs Attention,Low Value,One-Time
+18193,At Risk,Very Low Value,One-Time
+18194,Needs Attention,Low Value,One-Time
+18196,At Risk,Low Value,Few
+18198,Recent,High Value,Frequent
+18200,At Risk,Very Low Value,One-Time
+18202,Churned,Average Value,Few
+18203,At Risk,Very Low Value,One-Time
+18204,Needs Attention,Average Value,Few
+18205,Needs Attention,Low Value,Few
+18209,Recent,Very Low Value,One-Time
+18210,Recent,Average Value,Frequent
+18211,Recent,Low Value,Occasional
+18212,Churned,Very Low Value,One-Time
+18213,Churned,Very Low Value,One-Time
+18215,Needs Attention,Very Low Value,One-Time
+18216,Recent,Low Value,One-Time
+18217,Recent,Low Value,Few
+18218,Churned,Low Value,Few
+18219,Recent,Average Value,Frequent
+18220,Churned,Low Value,One-Time
+18221,Recent,Average Value,Occasional
+18222,At Risk,Low Value,One-Time
+18223,Recent,High Value,Frequent
+18224,Churned,Very Low Value,One-Time
+18225,Recent,High Value,Frequent
+18226,Needs Attention,High Value,Frequent
+18227,Churned,Very Low Value,One-Time
+18228,Needs Attention,Low Value,Few
+18229,Recent,High Value,Frequent
+18230,Recent,Average Value,Frequent
+18231,Churned,Average Value,Occasional
+18232,Needs Attention,Low Value,Occasional
+18233,Churned,Low Value,One-Time
+18235,Needs Attention,Average Value,Few
+18236,Recent,Low Value,Frequent
+18237,Recent,Low Value,Occasional
+18239,Churned,Average Value,Occasional
+18240,Needs Attention,Low Value,One-Time
+18241,Recent,Average Value,Frequent
+18242,Needs Attention,Average Value,Occasional
+18245,Recent,Average Value,Frequent
+18246,Recent,Low Value,Few
+18248,At Risk,Low Value,Few
+18249,Recent,Very Low Value,One-Time
+18250,Churned,Low Value,One-Time
+18251,Needs Attention,Average Value,One-Time
+18252,Needs Attention,Low Value,Few
+18255,Needs Attention,Very Low Value,One-Time
+18257,Needs Attention,Average Value,Frequent
+18259,Recent,Average Value,Few
+18260,At Risk,Average Value,Frequent
+18261,Needs Attention,Low Value,Few
+18262,At Risk,Very Low Value,One-Time
+18263,Recent,Average Value,Few
+18265,Needs Attention,Low Value,Few
+18268,At Risk,Very Low Value,One-Time
+18269,Churned,Very Low Value,One-Time
+18270,Needs Attention,Very Low Value,Few
+18272,Recent,Average Value,Frequent
+18273,Recent,Very Low Value,Few
+18274,Recent,Very Low Value,One-Time
+18276,Needs Attention,Low Value,One-Time
+18277,Needs Attention,Very Low Value,One-Time
+18278,Needs Attention,Very Low Value,One-Time
+18280,Churned,Very Low Value,One-Time
+18281,At Risk,Very Low Value,One-Time
+18282,Recent,Very Low Value,Few
+18283,Recent,Average Value,Frequent
+18287,Needs Attention,Average Value,Few
